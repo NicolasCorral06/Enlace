@@ -391,12 +391,12 @@ if (isset($_POST["intAprovado"])) {
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'enlace.tcc@gmail.com';
-        $mail->Password   = 'dzja rsfw eqle xhfz';
+        $mail->Username   = '';//email da empresa
+        $mail->Password   = '';//senha do google
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
 
-        $mail->setFrom('enlace.tcc@gmail.com', 'Enlace');
+        $mail->setFrom('', '');//email da empresa e nome
         $mail->addAddress($email, $nome); // Use o email do destinatário aqui
 
         $mail->isHTML(true);
@@ -456,12 +456,12 @@ if(isset($_POST["intNegado"])){
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'enlace.tcc@gmail.com';
-        $mail->Password   = 'dzja rsfw eqle xhfz';
+        $mail->Username   = '';//email da empresa
+        $mail->Password   = '';//senha do google
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
 
-        $mail->setFrom('enlace.tcc@gmail.com', 'Enlace');
+        $mail->setFrom('', '');//email da empresa e nome
         $mail->addAddress($email, $nome); // Use o email do destinatário aqui
 
         $mail->isHTML(true);
@@ -1186,12 +1186,12 @@ if(isset($_POST["codigoGet"])){
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'enlace.tcc@gmail.com';
-        $mail->Password   = 'dzja rsfw eqle xhfz';
+        $mail->Username   = '';//email da empresa
+        $mail->Password   = '';//senha do google
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
 
-        $mail->setFrom('enlace.tcc@gmail.com', 'Enlace');
+        $mail->setFrom('', '');//email da empresa e nome
         $mail->addAddress($dados["emailInt"], (isset($_POST["emailVerify"]) ? "" : $dados["nomeInt"])); 
 
         $mail->isHTML(true);

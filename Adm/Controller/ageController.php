@@ -174,12 +174,12 @@ if(isset($_POST["agendamentoLocal"])){
                 $mail->isSMTP();
                 $mail->Host       = 'smtp.gmail.com';
                 $mail->SMTPAuth   = true;
-                $mail->Username   = 'enlace.tcc@gmail.com';
-                $mail->Password   = 'dzja rsfw eqle xhfz';
+                $mail->Username   = '';//email da empresa
+                $mail->Password   = '';//senha do google
                 $mail->SMTPSecure = 'tls';
                 $mail->Port       = 587;
         
-                $mail->setFrom('enlace.tcc@gmail.com', 'Enlace');
+                $mail->setFrom('', '');//email da empresa e nome
                 $mail->addAddress($emailCli, $nomeCli); // Use o email do destinatário aqui
         
                 $mail->isHTML(true);
@@ -274,16 +274,16 @@ if(isset($_POST["agendamentoConfirm"])){
 
     if($resp){
         try {
-            $mail->isSMTP();
-            $mail->Host       = 'smtp.gmail.com';
-            $mail->SMTPAuth   = true;
-            $mail->Username   = 'enlace.tcc@gmail.com';
-            $mail->Password   = 'dzja rsfw eqle xhfz';
-            $mail->SMTPSecure = 'tls';
-            $mail->Port       = 587;
-    
-            $mail->setFrom('enlace.tcc@gmail.com', 'Enlace');
-            $mail->addAddress($emailCli, $nomeCli); // Use o email do destinatário aqui
+             $mail->isSMTP();
+                $mail->Host       = 'smtp.gmail.com';
+                $mail->SMTPAuth   = true;
+                $mail->Username   = '';//email da empresa
+                $mail->Password   = '';//senha do google
+                $mail->SMTPSecure = 'tls';
+                $mail->Port       = 587;
+        
+                $mail->setFrom('', '');//email da empresa e nome
+                $mail->addAddress($emailCli, $nomeCli); // Use o email do destinatário aqui
     
             $mail->isHTML(true);
             $mail->Subject = 'Confirmação do agendamento';

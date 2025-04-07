@@ -563,12 +563,13 @@ if(isset($_POST["codigoGet"])){
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'enlace.tcc@gmail.com';
-        $mail->Password   = 'dzja rsfw eqle xhfz';
+        $mail->Username   = '';//email da empresa
+        $mail->Password   = '';//senha do google
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
-
-        $mail->setFrom('enlace.tcc@gmail.com', 'Enlace');
+        
+        $mail->setFrom('', '');//email da empresa e nome
+            
         $mail->addAddress($dados["emailCli"], (isset($_POST["emailVerify"]) ? "" : $dados["nomeCli"])); 
 
         $mail->isHTML(true);
