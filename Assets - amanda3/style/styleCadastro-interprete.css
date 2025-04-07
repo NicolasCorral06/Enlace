@@ -1,0 +1,118 @@
+
+    
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: var(--cor-fundo);
+        font-family: Poppins, Roboto, Helvetica, Arial, sans-serif !important;
+        font-weight: 300;
+        font-size: 16px;
+        overflow-x: hidden;
+    }
+    .text-content {
+        font-size: inherit; 
+    }
+
+    /* TEMA LIGHT */
+    :root, :root[data-theme='dark'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107; 
+        --cor-terciaria: #6C757D; 
+        --cor-fundo: #FFFFFF; 
+        --cor-fundo-maisclaro: #ffffff;
+        --cor-preto-light: #000000; 
+        --cor-branco-light: #ffffff; 
+        --cor-sombra-preta-light: rgba(0, 0, 0, 0.05);
+    }
+    /* TEMA DARK */
+    :root[data-theme='light'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107;
+        --cor-terciaria: #6C757D;
+        --cor-fundo: #2f2f2f; 
+        --cor-fundo-maisclaro: #555555;
+        --cor-preto-light: #ffffff; 
+        --cor-branco-light: #000000; 
+        --cor-sombra-preta-light: rgba(255, 255, 255, 0.05);
+    }
+
+    /* ---------- ALTERAR FONTE --------------- */
+
+    .fixed-button {
+        position: fixed;
+        top: 35%;
+        right: 0;
+        transform: translateY(-50%);
+        z-index: 800;
+        padding: 8px 3px;
+        background-color: #ffffff;
+        border-radius: 5px 0 0 5px;
+        text-decoration: none;
+        font-size: 15px;
+        transition: background-color 0.3s;
+        cursor: pointer;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+         }
+    
+    .fixed-button button{
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+
+    /* ---------- FIM ALTERAR FONTE --------------- */
+
+
+
+   /* ----------- CSS CONTEUDO -------- */
+   .row{
+        height: 100vh;
+        background-color: var(--cor-fundo-maisclaro);
+    }
+
+    .colAcesso{
+        padding: 10% 0% 0% 15%;
+        color: #2e6b73;
+    }
+
+    .colAcesso input{
+        background-color: var(--cor-fundo-maisclaro);
+        padding: 1% 7%;
+        border: 1px solid #2e6b73;
+        border-radius: 20px;
+    }
+
+    .colAcesso button{
+        border-radius: 20px;
+        background-color: #2e6b73;
+        color: #fff;
+        width: 40%;
+        padding: 1% 0%;
+        border: none;
+    }
+
+    .colBoasvindas{
+        padding: 10% 8% 0% 5%;
+        background-color: #2e6b73;
+        color: #fff;
+    }
+
+    .colBoasvindas h1{
+        font-size: 3rem;
+    }
+
+    .colBoasvindas p{
+        margin-top: 5%;
+        font-size: 1.2rem;
+    }
+
+    .colBoasvindas a{
+        color: #f3f3f3;
+        border: 1px solid #fff;
+        padding: 3.5%;
+        border-radius: 20px;
+        margin-top: 5%;
+        text-decoration: none;
+    }

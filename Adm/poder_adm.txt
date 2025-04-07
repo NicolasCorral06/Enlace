@@ -1,0 +1,15 @@
+
+nivel de poder do adm:
+1 - adm = acesso as paginas de "administradores", "clientes", "interprete" e relacionados
+2 - rh = acesso as paginas de confirmação do interprete
+3 - Gestor de Chamados = acesso as paginas de avaliações e chamados
+4 - Designer = acesso a pagina de update de imagens
+5 - adm vip = acesso total as paginas(usado para teste e para apresentação)
+
+
+status do agendamento:
+3 = serviço concluido
+2 = serviço pendente/falta de informação. 
+1 = serviço aceito/pago
+0 = serviço cancelado
+    

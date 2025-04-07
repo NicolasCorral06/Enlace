@@ -1,0 +1,449 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--cor-fundo);
+    font-family: Poppins, Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    overflow-x: hidden;
+}
+
+    /* Base layout para o conteúdo */
+.rowForms-login {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0% 5% 0% 5%;
+}
+
+/* Responsividade: Colunas se adaptam para diferentes tamanhos de tela */
+.colFormsEsquerdo-login, .colFormsDireito-login {
+    padding: 2% 0;
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="date"] {
+        background-color: var(--cor-fundo);
+        width: 100%;
+        border: none;
+        border-bottom: 2px solid #ccc;
+        transition: border-color 0.3s;
+        color: var(--cor-preto-light);
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 10%;
+        margin-top: 2.5%;
+}
+
+
+    .text-content {
+        font-size: inherit; 
+    }
+
+    /* TEMA LIGHT */
+    :root, :root[data-theme='dark'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107; 
+        --cor-terciaria: #6C757D; 
+        --cor-fundo: #FFF; 
+        --cor-fundo-maisclaro: #fff;
+        --cor-preto-light: #000; 
+        --cor-branco-light: #fff; 
+        --cor-sombra-preta-light: rgba(0, 0, 0, 0.05);
+    }
+    /* TEMA DARK */
+    :root[data-theme='light'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107;
+        --cor-terciaria: #6C757D;
+        --cor-fundo: #2f2f2f; 
+        --cor-fundo-maisclaro: #555555;
+        --cor-preto-light: #fff; 
+        --cor-branco-light: #000; 
+        --cor-sombra-preta-light: rgba(255, 255, 255, 0.05);
+    }
+
+
+    /* ---------- ALTERAR COR --------------- */
+
+
+    #toggleTheme{
+        color: var(----cor-principal);
+        font-size: 1.4rem;
+        margin-left: 1%;
+        cursor: pointer;
+   }
+    
+
+    /* ---------- ALTERAR FONTE --------------- */
+
+    .fixed-button {
+        position: fixed;
+        top: 35%;
+        right: 0;
+        transform: translateY(-50%);
+        z-index: 800;
+        padding: 8px 3px;
+        background-color: #ffffff;
+        border-radius: 5px 0 0 5px;
+        text-decoration: none;
+        font-size: 15px;
+        transition: background-color 0.3s;
+        cursor: pointer;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+         }
+    
+    .fixed-button button{
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+
+    /* ---------- FIM ALTERAR FONTE --------------- */
+
+    body {
+        background-color: var(--cor-fundo);
+        font-family: "Merriweather Sans", sans-serif;
+    }
+
+    .rowTopo-login{
+        padding: 3% 2% 0% 2%;
+        height: auto;
+        /* border: 1px solid black; */
+    }
+
+    #nascimento{
+        color: #555555 !important;
+    }
+
+    .buttonVoltar a{
+        color: var(--cor-preto-light);
+        text-decoration: none;
+        position: relative;
+        padding: 10px;
+        display: inline-block;
+    }
+
+    .buttonVoltar a:hover{
+        color: #3f7f88;
+        text-decoration: none;
+        position: relative;
+        padding: 10px;
+        display: inline-block;
+    }
+
+    .buttonConta a{
+        color: #000;
+        text-decoration: none;
+        position: relative;
+        padding: 10px;
+        display: inline-block;
+    }
+
+    .buttonConta a:hover{
+        color: #3f7f88;
+        text-decoration: none;
+        position: relative;
+        padding: 10px;
+        display: inline-block;
+    }
+
+    .buttonConta a::after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 1px;
+        background-color: var(----cor-principal);
+        bottom: 5px;
+        left: 0;
+        transition: width 0.3s ease-in-out;
+    }
+
+    .buttonConta a:hover::after {
+        width: 100%;
+    }
+
+    .rowTopo-login p{
+        box-sizing: border-box;
+        text-rendering: optimizelegibility;
+        -webkit-font-smoothing: antialiased;
+        color: rgb(14, 14, 14);
+        font-weight: 500;
+        font-family: Clarkson, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        text-transform: uppercase;
+        font-size: 12px;
+        letter-spacing: 0.5px;
+        line-height: 22px;
+    }
+
+    .rowLogo-login{
+        text-align: center;
+        /* border: 1px solid black; */
+        height: auto;
+    }
+
+    .rowLogo-login img{
+        width: 6%;
+        display: block; 
+        margin: 0 auto; 
+    }
+
+    .colTitulo-login{
+        /* border: 1px solid green; */
+        padding: 1.5% 0% 3.5% 0%;
+    }
+
+    .colTitulo-login p{
+        color: var(--cor-preto-light) !important;
+        font-weight: 100 !important;
+    }
+
+    .rowLogo-login p{
+        margin: 0; 
+        padding: 0; 
+        text-rendering: optimizelegibility;
+        -webkit-font-smoothing: antialiased;
+        color: rgb(14, 14, 14);
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 26px;
+        letter-spacing: 0.5px;
+        line-height: 22px;
+    }
+
+    .rowForms-login{
+        padding: 0% 10% 0% 10%;
+        height: auto;
+    }
+
+    .colFormsEsquerdo-login{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        /* border: 1px solid black; */
+        height: auto;
+        padding: 4% 0% 5% 14%;
+    }
+
+    .colFormsDireito-login{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        /* border: 1px solid black; */
+        height: auto;
+        padding: 4% 14% 5% 0%;
+    }
+
+    .colFormsDireito-login h2, .colFormsEsquerdo-login h2{
+        font-size: 24px;
+        color: #333;
+    }
+
+    .labelForms-login{
+        text-align: left;
+        box-sizing: border-box;
+        text-rendering: optimizelegibility;
+        -webkit-font-smoothing: antialiased;
+        color: var(--cor-preto-light);
+        font-weight: 500;
+        font-family: Clarkson, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        text-transform: uppercase;
+        display: block;
+        font-size: 0.8rem;
+        letter-spacing: 0.75px;
+        line-height: 16px;
+        margin-top: 2.5%;
+    }
+    
+    .colVertical-login{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        padding: 0% 8% 0% 0%;
+    }
+
+    .vertical-login {
+        left: 50%; 
+        width: 1px; 
+        background-color: rgb(198, 198, 198);
+        z-index: 9999; 
+        height: 35vh;
+    }
+
+    .esqueciSenha-login{
+        font-size: 12px;
+        color: #6d6b6b;
+    }
+
+    .rowButton-login{
+        margin-bottom: 25%;
+    }
+
+    /* .colButton-login{
+        text-rendering: optimizelegibility;
+        -webkit-font-smoothing: antialiased;
+        color: rgb(102, 102, 102);
+        font-weight: 400;
+        font-family: Clarkson, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        line-height: 16px;
+        margin-top: 0%;
+    } */
+
+    /* Garantir que o p e o button fiquem em linhas separadas */
+.colButton-login {
+    display: flex;
+    flex-direction: column;  /* Alinha os itens verticalmente */
+    justify-content: center;
+    align-items: center;
+}
+
+.colButton-login .button {
+    width: 50%;
+    text-align: center;
+    background-color: #3f7f88;
+    color: var(--cor-branco-light);
+    padding: 10px;
+    font-size: 12px;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-bottom: 10px;  /* Espaço entre o botão e o parágrafo */
+}
+
+.colButton-login p {
+    color: rgb(110, 110, 110);
+    font-weight: 400;
+    font-size: 13px;
+    text-align: center;
+    margin-top: 0;  /* Garante que não haja margem extra acima do p */
+}
+
+
+    
+    .colTermos-login{
+        text-rendering: optimizelegibility;
+        -webkit-font-smoothing: antialiased;
+        color: rgb(102, 102, 102);
+        font-weight: 400;
+        font-family: Clarkson, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        line-height: 16px;
+        text-align: center;
+        
+    }
+
+    .colTermos-login a{
+        color: #51b6c4;
+        text-decoration: underline;
+    }
+
+    #passwordRequirements{
+        margin-top: 2.5%;
+    }
+
+    .requirement {
+        color: var(--cor-preto-light);
+        font-size: 0.9rem;
+    }
+
+    #length, #uppercase, #lowercase, #number{
+        margin-top: -15px;
+    }
+
+    .requirement{
+        color: var(--cor-preto-light);
+    }
+
+    .requirement.valid {
+        color: var(----cor-principal);
+        font-weight: 400;
+    }
+
+
+    .btn-secondary{
+        background-color: var(----cor-principal);
+    }
+
+
+
+    /* ---------------- DISPOSITIVOS MOVEIS ------------------- */
+/* Para Tablets */
+@media (max-width: 1500px) {
+    .rowLogo-login img{
+        width: 10%;
+        display: block; 
+        margin: 0 auto; 
+    }
+
+    #passwordRequirements{
+        margin-top: 7%;
+    }
+
+    #passwordRequirements .col-6{
+        text-align: center;
+    }
+
+    .colButton-login button{
+        margin-top: 5%;
+    }
+    
+}
+ 
+ 
+ /* Para dispositivos móveis */
+ @media (max-width: 576px) {
+    .rowLogo-login img{
+        width: 20%;
+        display: block; 
+        margin: 0 auto; 
+    }    
+    
+    #passwordRequirements{
+        margin-top: 15%;
+    }
+    
+    #passwordRequirements .col-6{
+        text-align: center;
+    }
+
+    .colButton-login button{
+        margin-top: 10%;
+    }
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

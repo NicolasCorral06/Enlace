@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: var(--cor-fundo-maisclaro);
+        font-family: Poppins, Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 300;
+        font-size: 16px;
+        color: var(--cor-preto-light);
+        overflow-x: hidden;
+    }
+
+    .text-content {
+        font-size: inherit; 
+    }
+
+    /* TEMA LIGHT */
+    :root, :root[data-theme='dark'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107; 
+        --cor-terciaria: #6C757D; 
+        --cor-fundo: #FFFFFF; 
+        --cor-fundo-maisclaro: #ffffff;
+        --cor-preto-light: #000000; 
+        --cor-branco-light: #ffffff; 
+        --cor-sombra-preta-light: rgba(0, 0, 0, 0.05);
+    }
+    /* TEMA DARK */
+    :root[data-theme='light'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107;
+        --cor-terciaria: #6C757D;
+        --cor-fundo: #2f2f2f; 
+        --cor-fundo-maisclaro: #555555;
+        --cor-preto-light: #ffffff; 
+        --cor-branco-light: #000000; 
+        --cor-sombra-preta-light: rgba(255, 255, 255, 0.05);
+    }
+
+    /* ---------- NAVBAR ---------- */
+
+   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+   .bg-light {
+       box-shadow: 0 4px 6px var(--cor-sombra-preta-light);
+       background-color: var(--cor-fundo) !important;
+       justify-content: center;
+       align-items: center;
+       display: flex;
+   }
+
+   .bg-light img{
+        width: 12%;
+        margin-bottom: 1%;
+   }
+
+   .bg-revisao{
+        height: auto;
+        background-color: var(--cor-fundo) !important;
+        border-bottom: .0625rem solid #eaeaea;
+        border-top: .0625rem solid #eaeaea;
+        color: #4b4b4b;
+        font-size: 0.9rem;
+        padding: 1%;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+   }
+
+   
+    /* ---------- FIM NAVBAR ---------- */
+
+
+
+    /* ---------- ALTERAR FONTE --------------- */
+
+    .fixed-button {
+        position: fixed;
+        top: 35%;
+        right: 0;
+        transform: translateY(-50%);
+        z-index: 800;
+        padding: 8px 3px;
+        background-color: #ffffff;
+        border-radius: 5px 0 0 5px;
+        text-decoration: none;
+        font-size: 15px;
+        transition: background-color 0.3s;
+        cursor: pointer;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+         }
+    
+    .fixed-button button{
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+
+    /* ---------- FIM ALTERAR FONTE --------------- */
+
+
+
+   /* ----------- CSS CONTEUDO -------- */
+
+   .colTexto{
+        margin-top: 5%;
+        font-size: 1.2rem;
+   }
+
+   .colTexto i{
+        font-size: 1.7rem;
+        color: #2e6b73;
+   }
+   
+    .colEndereco-geral{
+        background-color: var(--cor-fundo);
+        margin-top: 5%;
+        border-radius: 20px;
+        padding: 2.5% 10% 5% 10%;
+    }
+
+    .colEndereco-geral .cidade{
+        color: #fff;
+        padding: 2.5%;
+        background-color: #2e6b737c;
+        border-radius: 10px;
+        text-align: center;
+        width: 100%;
+        font-weight: 400;
+    }
+
+    .colEndereco-geral input{
+        width: 100%;
+        padding: 2% 0% 2% 2%;
+        border-radius: 10px;
+        border: 1px solid #a8a8a8;
+    }
+
+    .colEndereco-geral textarea{
+        width: 100%;
+        padding: 2% 0% 2% 2%;
+        border-radius: 10px;
+        border: 1px solid #a8a8a8;
+    }
+
+    .colEndereco-geral button{
+        width: 100%;
+        padding: 1.5%;
+        background-color: #2e6b73;
+        border: none;
+        border-radius: 20px;
+        color: var(--cor-branco-light);
+    }
+
+    .rowPagamento .col-6{
+        text-align: center;
+    }
+
+    .colPagamento-geral{
+        background-color: var(--cor-fundo);
+        margin-top: 5%;
+        border-radius: 20px;
+        padding: 2.5% 10% 5% 10%;
+    }
+
+    .colPagamento-geral h1{
+        font-size: 1.3rem;
+    }
+
+    .colPix, .colCartao{
+        cursor: pointer;
+        padding: 2% 0%;
+    }
+
+    .colPix:hover, .colCartao:hover{
+        cursor: pointer;
+        background-color: #2e6b7357;
+        padding: 2% 0%;
+    }
+
+    .colPix  i, .colCartao i{
+        font-size: 1.2rem;
+    }
+
+    .colPix h2, .colCartao h2{
+        font-weight: 600;
+        font-size: 1.2rem;
+    }
+
+    .colPix p, .colCartao p{
+        font-size: 0.8rem;
+    }
+
+    .colInfos{        
+        background-color: var(--cor-fundo);
+        margin-top: 3%;
+        height: 70vh;
+        border-radius: 20px;
+        padding: 2.5% 2% 2.5% 2%;
+    }
+
+    .colInfos h1{
+        font-size: 1.5rem;
+    }
+
+    .colInfos span{
+        position: absolute;
+        right: 0;
+        margin-right: 5%;
+    }
+
+    .colInfos input{
+        margin-top: 5%;
+        width: 100%;
+        background-color: #2e6b73;
+        color: var(--cor-branco-light);
+        border: none;
+        border-radius: 10px;
+        padding: 2.5%;
+    }

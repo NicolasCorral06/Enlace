@@ -1,0 +1,66 @@
+2024-09-20 17:14:58 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-20 17:26:18 - Cliente julio@cesar.com criado com sucesso
+2024-09-20 21:22:13 - Extensão errada usada no upload de CV
+2024-09-20 21:22:13 - Extensão errada usada no upload de CV
+2024-09-20 21:22:13 - Interprete temporario corralnicolas3@gmail.com criado com sucesso
+2024-09-20 21:25:53 - Extensão errada usada no upload de CV
+2024-09-20 21:25:53 - Extensão errada usada no upload do video
+2024-09-20 21:25:53 - Interprete temporario corralnicolas3@gmail.com criado com sucesso
+2024-09-20 21:28:25 - Extensão errada usada no upload de CV
+2024-09-20 21:28:25 - Extensão errada usada no upload do video
+2024-09-20 21:28:25 - Interprete temporario corralnicolas3@gmail.com criado com sucesso
+2024-09-20 21:32:22 - Extensão errada usada no upload de CV
+2024-09-20 21:41:07 - Extensão errada usada no upload de CV
+2024-09-20 21:42:46 - Interprete temporario corralnicolas3@gmail.com criado com sucesso
+2024-09-20 21:50:20 - Interprete temporario->interprete foi bem sucedido
+2024-09-22 18:02:21 - Tentativa de acesso sem exito na área de Interprete
+2024-09-22 19:08:33 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-09-23 22:25:57 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-23 22:26:46 - Novo administrador criado - lucas12
+2024-09-23 22:26:52 - Administrador do ID -0 foi deletado com sucesso
+2024-09-24 02:07:42 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:28:28 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:43:08 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:43:17 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:44:11 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:44:16 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:47:43 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:47:45 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:47:55 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:52:44 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:52:47 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:56:44 - Novo administrador criado - nicolas
+2024-09-24 02:59:11 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:59:13 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 02:59:43 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 03:09:02 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 03:10:35 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 03:10:37 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 03:12:10 - Imagenso do ID -1 foram atualizadas com sucesso
+2024-09-24 03:13:32 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-24 03:14:34 - Criação sucedida de novas imagens
+2024-09-24 03:15:29 - Imagens do carrossel do ID -0 foram deletadas com sucesso
+2024-09-24 19:06:43 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-25 00:44:45 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-25 00:44:53 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-25 01:01:14 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-25 01:03:58 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-25 01:20:54 - Criação sucedida de novas imagens
+2024-09-25 01:20:58 - Imagens do carrossel do ID -0 foram deletadas com sucesso
+2024-09-25 01:30:57 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-25 01:37:55 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-25 01:39:10 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-25 01:39:35 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-25 01:50:06 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-25 01:55:18 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-09-25 01:58:27 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-26 21:36:19 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-09-26 21:36:55 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-26 21:36:57 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-09-26 21:37:33 - Interprete temporario negado
+2024-09-27 00:11:33 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-09-27 00:14:39 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-09-27 00:15:08 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-09-27 00:17:07 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-09-27 02:05:33 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-09-27 12:07:42 -  celsoincrivel@gmail.com logou com exito na área de Administrador 

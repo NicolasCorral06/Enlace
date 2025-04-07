@@ -1,0 +1,619 @@
+2024-11-08 21:23:34 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-08 21:30:18 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-08 21:37:44 - Interprete temporario umcaraqualquer1609@gmail.com criado com sucesso
+2024-11-08 22:06:18 - Tentativa de acesso sem exito na área de Interprete
+2024-11-08 22:06:31 - Interprete temporario->interprete foi bem sucedido
+2024-11-08 22:06:42 -  umcaraqualquer1609@gmail.com logou com exito na área de Interprete 
+2024-11-08 23:10:50 - dados pessoais do Interprete temporario  criado com sucesso
+2024-11-08 23:14:06 - Perfil do Interprete temporario  criado com sucesso
+2024-11-08 23:31:41 - Todos os dados do interrpete foram aprovados. ID interprete{6}
+2024-11-08 23:34:36 - Todos os dados do interrpete foram aprovados. ID interprete{6}
+2024-11-09 00:04:12 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-09 00:04:24 -  umcaraqualquer1609@gmail.com logou com exito na área de Interprete 
+2024-11-09 01:34:54 - Serviços adicionados na tabela do interprete
+2024-11-09 02:42:19 - Serviços atualizados na tabela do interprete
+2024-11-09 02:51:37 - Serviços atualizados na tabela do interprete
+2024-11-09 02:51:57 - Serviços atualizados na tabela do interprete
+2024-11-09 03:14:06 - Serviços atualizados na tabela do interprete
+2024-11-09 03:14:34 - Serviços atualizados na tabela do interprete
+2024-11-09 03:22:36 - Serviços atualizados na tabela do interprete
+2024-11-09 03:25:50 - Serviços atualizados na tabela do interprete
+2024-11-09 03:29:31 - Serviços atualizados na tabela do interprete
+2024-11-09 03:29:45 - Serviços atualizados na tabela do interprete
+2024-11-09 03:29:59 - Serviços atualizados na tabela do interprete
+2024-11-09 03:32:13 - Serviços atualizados na tabela do interprete
+2024-11-09 12:47:58 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-09 12:48:06 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-09 12:48:13 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-09 12:52:27 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-09 12:52:30 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-09 12:53:14 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-09 12:53:39 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-09 12:53:55 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-09 12:54:21 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-09 12:54:30 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-09 15:04:52 - Serviço do ID -1 foi atualizado
+2024-11-09 15:07:15 - Serviço do ID -1 foi atualizado
+2024-11-09 15:09:06 - Serviço do ID -1 foi atualizado
+2024-11-09 15:10:13 - Serviço do ID -1 foi atualizado
+2024-11-09 16:05:37 - Imagenso do ID -1 foram atualizadas com sucesso
+2024-11-09 16:09:39 - Cliente netigan507@avzong.com criado com sucesso
+2024-11-09 16:09:49 -  netigan507@avzong.com logou com exito na área do Cliente 
+2024-11-09 16:18:03 - Cliente umcaraqualquer1609@gmail.com criado com sucesso
+2024-11-09 16:18:10 -  umcaraqualquer1609@gmail.com logou com exito na área do Cliente 
+2024-11-09 16:56:17 - Codigo de nova senha enviado para cliente umcaraqualquer1609@gmail.com 
+2024-11-09 17:01:11 - Codigo de nova senha enviado para cliente umcaraqualquer1609@gmail.com 
+2024-11-09 17:01:28 - Codigo enviado por <br />
+<b>Warning</b>:  Undefined array key  cliente está correto 
+2024-11-09 17:45:11 - Codigo de nova senha enviado para cliente umcaraqualquer1609@gmail.com 
+2024-11-09 17:45:42 - Codigo enviado por umcaraqualquer1609@gmail.com do cliente está incorreto 
+2024-11-09 17:46:01 - Codigo de nova senha enviado para cliente umcaraqualquer1609@gmail.com 
+2024-11-09 17:46:28 - Codigo enviado por umcaraqualquer1609@gmail.com cliente está correto 
+2024-11-09 18:00:53 - Senha alterada com sucesso
+2024-11-09 18:01:01 -  umcaraqualquer1609@gmail.com logou com exito na área do Cliente 
+2024-11-09 18:01:30 - Erro ao enviar email de confirmação 
+2024-11-09 18:21:48 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:21:50 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:21:55 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:22:01 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:22:04 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:22:07 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:22:10 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:22:18 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:22:19 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:22:22 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:38:21 -  umcaraqualquer1609@gmail.com logou com exito na área do Cliente 
+2024-11-09 18:52:45 - Codigo de nova senha enviado para cliente umcaraqualquer1609@gmail.com 
+2024-11-09 18:52:59 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:55:51 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:55:54 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:55:55 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:55:57 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:56:00 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:56:01 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:56:03 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:56:05 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:56:47 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:56:49 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:56:51 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:56:53 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:56:55 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:56:56 - Codigo enviado por  do cliente está incorreto 
+2024-11-09 18:58:05 - Codigo enviado por umcaraqualquer1609@gmail.com do cliente está incorreto 
+2024-11-09 18:58:07 - Codigo enviado por umcaraqualquer1609@gmail.com do cliente está incorreto 
+2024-11-09 18:58:10 - Codigo enviado por umcaraqualquer1609@gmail.com do cliente está incorreto 
+2024-11-09 18:58:12 - Codigo enviado por umcaraqualquer1609@gmail.com do cliente está incorreto 
+2024-11-09 19:13:14 -  umcaraqualquer1609@gmail.com logou com exito na área do Cliente 
+2024-11-09 19:14:55 - Codigo de nova senha enviado para cliente umcaraqualquer1609@gmail.com 
+2024-11-09 19:15:38 -  umcaraqualquer1609@gmail.com logou com exito na área do Cliente 
+2024-11-09 19:25:35 - Codigo de nova senha enviado para cliente umcaraqualquer1609@gmail.com 
+2024-11-09 19:42:53 -  umcaraqualquer1609@gmail.com logou com exito na área do Cliente 
+2024-11-09 19:42:58 - Codigo de nova senha enviado para cliente umcaraqualquer1609@gmail.com 
+2024-11-09 19:43:34 - Codigo enviado por umcaraqualquer1609@gmail.com cliente está correto 
+2024-11-09 19:43:38 - Senha alterada com sucesso
+2024-11-09 19:43:47 -  umcaraqualquer1609@gmail.com logou com exito na área do Cliente 
+2024-11-09 20:05:31 - Codigo de nova senha enviado para cliente umcaraqualquer1609@gmail.com 
+2024-11-09 20:06:19 - Codigo enviado por umcaraqualquer1609@gmail.com cliente está correto 
+2024-11-09 20:06:25 - Senha alterada com sucesso
+2024-11-09 20:07:04 - Codigo de nova senha enviado para cliente umcaraqualquer1609@gmail.com 
+2024-11-09 20:07:13 - Codigo enviado por umcaraqualquer1609@gmail.com cliente está correto 
+2024-11-09 20:07:17 - Senha alterada com sucesso
+2024-11-16 22:34:50 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-16 23:56:05 - Interprete perfil do ID_INT -1 foi atualizado
+2024-11-16 23:57:41 - Interprete perfil do ID_INT -1 foi atualizado
+2024-11-17 00:04:41 - Interprete perfil do ID_INT -1 foi atualizado
+2024-11-17 01:45:06 - Interprete do ID_INT - foi atualizado
+2024-11-17 01:45:28 - Interprete do ID_INT - foi atualizado
+2024-11-17 13:03:04 - Serviços atualizados na tabela do interprete
+2024-11-21 16:58:04 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-21 16:58:12 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-21 16:59:17 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-21 17:16:35 - Agendamento efetuado com sucesso
+2024-11-21 17:25:21 - Agendamento efetuado com sucesso
+2024-11-22 20:03:11 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-22 20:03:14 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-22 20:03:32 - Agendamento efetuado com sucesso
+2024-11-22 20:03:39 - Agendamento efetuado com sucesso
+2024-11-22 20:05:24 - Agendamento efetuado pelo cliente1com sucesso
+2024-11-23 00:55:28 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-23 00:55:31 - Serviços atualizados na tabela do interprete
+2024-11-23 01:35:15 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-23 02:29:05 - Tentativa de acesso na área do cliente com campos vazios
+2024-11-23 02:29:05 - Tentativa de acesso sem exito na área do Cliente
+2024-11-23 02:29:43 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-23 21:11:34 - Tentativa de acesso sem exito na área do Cliente
+2024-11-23 21:13:06 - Tentativa de acesso sem exito na área de Interprete
+2024-11-23 21:13:26 - Tentativa de acesso sem exito na área de Interprete
+2024-11-23 21:13:46 - Tentativa de acesso sem exito na área de Interprete
+2024-11-23 21:14:57 - Tentativa de acesso sem exito na área de Interprete
+2024-11-23 21:15:41 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-23 21:18:32 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-23 21:48:41 - Tentativa de acesso sem exito na área de Interprete
+2024-11-23 21:48:52 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-23 21:56:11 - Extensão errada usada no upload de CV
+2024-11-23 22:00:05 - Extensão errada usada no upload de CV
+2024-11-23 22:03:47 - Extensão errada usada no upload do video
+2024-11-23 22:05:28 - Extensão errada usada no upload do video
+2024-11-23 22:10:00 - Interprete temporario bipaceb565@gitated.com criado com sucesso
+2024-11-23 22:10:15 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-23 22:10:31 - Interprete temporario->interprete foi bem sucedido
+2024-11-23 22:10:52 -  bipaceb565@gitated.com logou com exito na área de Interprete 
+2024-11-23 23:47:25 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-24 00:14:32 - Interprete temporario bipaceb565@gitated.com criado com sucesso
+2024-11-24 00:39:12 - Extensão errada usada no upload de CV
+2024-11-24 00:40:24 - Cliente bipaceb565@gitated.com criado com sucesso
+2024-11-24 00:41:53 -  bipaceb565@gitated.com logou com exito na área do Cliente 
+2024-11-24 11:13:57 - Tentativa de acesso sem exito na área de Interprete
+2024-11-24 11:14:18 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-26 19:39:49 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-26 21:43:21 - Tentativa de acesso sem exito na área do Cliente
+2024-11-26 21:43:33 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-26 22:09:35 - Extensão errada usada no upload de FOTO PERFIL CLIENTE
+2024-11-26 22:09:46 - Extensão errada usada no upload de FOTO PERFIL CLIENTE
+2024-11-26 22:10:34 - Foto do cliente.ID: 1 alterada com sucesso
+2024-11-26 22:11:00 - Foto do cliente.ID: 1 alterada com sucesso
+2024-11-26 22:11:38 - Foto do cliente.ID: 1 alterada com sucesso
+2024-11-26 22:23:43 - Foto do cliente.ID: 1 alterada com sucesso
+2024-11-26 22:26:55 - Foto do cliente.ID: 1 alterada com sucesso
+2024-11-26 22:28:30 - Foto do cliente.ID: 1 alterada com sucesso
+2024-11-26 22:33:13 - Foto do cliente.ID: 1 alterada com sucesso
+2024-11-26 23:44:17 - Codigo de nova senha enviado para cliente umcaraqualquer1609@gmail.com 
+2024-11-26 23:44:31 - Codigo enviado por umcaraqualquer1609@gmail.com cliente está correto 
+2024-11-26 23:44:37 - Senha alterada com sucesso
+2024-11-26 23:44:46 -  umcaraqualquer1609@gmail.com logou com exito na área do Cliente 
+2024-11-27 00:13:04 - Codigo de nova senha enviado para interprete corralnicolas3@gmail.com 
+2024-11-27 00:13:18 - Codigo enviado por Interprete.corralnicolas3@gmail.com está incorreto 
+2024-11-27 00:13:45 - Codigo de nova senha enviado para interprete corralnicolas3@gmail.com 
+2024-11-27 00:13:57 - Codigo enviado por Interprete.corralnicolas3@gmail.com está incorreto 
+2024-11-27 00:20:38 - Codigo de nova senha enviado para interprete corralnicolas3@gmail.com 
+2024-11-27 00:20:59 - Codigo enviado por Interprete.corralnicolas3@gmail.com está incorreto 
+2024-11-27 00:22:15 - Codigo de nova senha enviado para interprete corralnicolas3@gmail.com 
+2024-11-27 00:31:08 - Codigo de nova senha enviado para interprete corralnicolas3@gmail.com 
+2024-11-27 00:31:38 - Codigo enviado por Interprete.corralnicolas3@gmail.com está correto 
+2024-11-27 00:32:25 - Senha alterada com sucesso
+2024-11-27 00:32:32 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-27 00:37:37 - Codigo de nova senha enviado para interprete corralnicolas3@gmail.com 
+2024-11-27 00:37:56 - Codigo enviado por Interprete.corralnicolas3@gmail.com está correto 
+2024-11-27 00:38:00 - Senha alterada com sucesso
+2024-11-27 00:38:10 - Tentativa de acesso sem exito na área de Interprete
+2024-11-27 00:38:31 - Tentativa de acesso sem exito na área de Interprete
+2024-11-27 00:38:57 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-27 00:39:03 - Codigo de nova senha enviado para interprete corralnicolas3@gmail.com 
+2024-11-27 00:39:15 - Codigo enviado por Interprete.corralnicolas3@gmail.com está correto 
+2024-11-27 00:39:21 - Senha alterada com sucesso
+2024-11-27 00:39:29 - Tentativa de acesso sem exito na área de Interprete
+2024-11-27 00:40:21 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-27 00:40:28 - Codigo de nova senha enviado para interprete corralnicolas3@gmail.com 
+2024-11-27 00:40:36 - Codigo enviado por Interprete.corralnicolas3@gmail.com está correto 
+2024-11-27 00:40:39 - Senha alterada com sucesso
+2024-11-27 00:40:46 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-27 01:47:36 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 01:53:30 - Tentativa injection na área de Administrador
+2024-11-27 01:54:38 - Chamado aberto para o adm
+2024-11-27 01:55:11 - Já existe um chamado para este administrador para mudança de senha
+2024-11-27 01:55:38 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 02:03:27 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 02:40:49 - Já existe um chamado para este administrador para mudança de senha
+2024-11-27 02:41:54 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 02:43:19 - Chamado do adm efetuado com sucesso
+2024-11-27 02:43:33 - Tentativa de acesso sem exito na área de Administrador
+2024-11-27 02:43:37 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 02:43:46 - Chamado do adm efetuado com sucesso
+2024-11-27 02:52:04 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 03:23:42 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 03:32:25 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 03:37:50 - Contato enviado com sucesso
+2024-11-27 03:38:05 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 04:07:54 - Status do contato alterado com sucesso
+2024-11-27 04:08:25 - Status do contato alterado com sucesso
+2024-11-27 04:08:28 - Status do contato alterado com sucesso
+2024-11-27 04:26:02 - Tentativa de acesso sem exito na área do Cliente
+2024-11-27 04:26:07 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-27 04:47:39 - Tentativa de acesso sem exito na área de Interprete
+2024-11-27 04:47:44 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-27 20:15:01 - Tentativa de acesso sem exito na área do Cliente
+2024-11-27 20:15:06 - Tentativa de acesso sem exito na área do Cliente
+2024-11-27 20:15:18 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-27 20:31:44 - Avaliação efetuada com sucesso
+2024-11-27 20:34:43 - Avaliação efetuada com sucesso
+2024-11-27 20:37:41 - Avaliação efetuada com sucesso
+2024-11-27 20:43:41 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-27 21:26:57 - Cliente nico@gmail.com teve os dados atualizados com sucesso
+2024-11-27 21:27:41 - Cliente nico@gmail.com teve os dados atualizados com sucesso
+2024-11-27 22:01:24 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 22:01:24 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 22:01:26 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 22:05:11 - Cliente Teste83@gmail.com criado com sucesso
+2024-11-27 22:05:18 -  Teste83@gmail.com logou com exito na área do Cliente 
+2024-11-27 22:05:26 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 22:06:34 - Cliente Teste83@gmail.com criado com sucesso
+2024-11-27 22:06:40 -  Teste83@gmail.com logou com exito na área do Cliente 
+2024-11-27 22:06:50 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 23:17:35 - Atualização dos dados do ID - 1 dos cliente ocorreram com exito
+2024-11-27 23:17:58 - Atualização dos dados do ID - 1 dos cliente ocorreram com exito
+2024-11-27 23:36:36 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-27 23:37:55 - Atualização dos dados do ID - 1 dos cliente ocorreram com exito
+2024-11-27 23:38:04 - Atualização dos dados do ID - 1 dos cliente ocorreram com exito
+2024-11-27 23:38:30 - Atualização dos dados do ID - 1 dos cliente ocorreram com exito
+2024-11-27 23:39:11 - Atualização dos dados do ID - 1 dos cliente ocorreram com exito
+2024-11-27 23:41:28 - Atualização dos dados do ID - 1 dos cliente ocorreram com exito
+2024-11-27 23:41:40 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-28 00:31:24 - Extensão errada usada no upload de CV
+2024-11-28 00:52:35 - Extensão errada usada no upload de CV
+2024-11-28 00:55:19 - Extensão errada usada no upload de CV
+2024-11-28 01:23:36 - Interprete temporario akemi.t.yamamoto@gmail.com criado com sucesso
+2024-11-28 01:26:45 - Interprete temporario kae.tupinamba@gmail.com criado com sucesso
+2024-11-28 01:29:24 - Interprete temporario mariana.alvesp@gmail.com criado com sucesso
+2024-11-28 01:32:38 - Interprete temporario alinecosta.santos@gmail.com criado com sucesso
+2024-11-28 01:34:26 - Interprete temporario larissa.ncampos@gmail.com criado com sucesso
+2024-11-28 01:35:43 - Interprete temporario carlos.e.ferreira@gmail.com criado com sucesso
+2024-11-28 01:36:01 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-28 01:37:13 - Interprete temporario->interprete foi bem sucedido
+2024-11-28 01:37:21 - Interprete temporario->interprete foi bem sucedido
+2024-11-28 01:37:28 - Interprete temporario->interprete foi bem sucedido
+2024-11-28 01:37:33 - Interprete temporario->interprete foi bem sucedido
+2024-11-28 01:37:39 - Interprete temporario->interprete foi bem sucedido
+2024-11-28 01:37:45 - Interprete temporario->interprete foi bem sucedido
+2024-11-28 01:39:38 - Tentativa de acesso sem exito na área de Interprete
+2024-11-28 01:41:56 - Tentativa de acesso sem exito na área de Interprete
+2024-11-28 01:42:58 -  akemi.t.yamamoto@gmail.com logou com exito na área de Interprete 
+2024-11-28 01:48:09 - dados pessoais do Interprete temporario  criado com sucesso
+2024-11-28 01:50:51 - Perfil do Interprete temporario  criado com sucesso
+2024-11-28 01:51:34 -  kae.tupinamba@gmail.com logou com exito na área de Interprete 
+2024-11-28 01:52:19 - dados pessoais do Interprete temporario  criado com sucesso
+2024-11-28 01:52:43 - Perfil do Interprete temporario  criado com sucesso
+2024-11-28 01:52:57 -  mariana.alvesp@gmail.com logou com exito na área de Interprete 
+2024-11-28 01:53:34 - dados pessoais do Interprete temporario  criado com sucesso
+2024-11-28 01:57:31 - Perfil do Interprete temporario  criado com sucesso
+2024-11-28 01:58:53 -  alinecosta.santos@gmail.com logou com exito na área de Interprete 
+2024-11-28 01:59:39 - dados pessoais do Interprete temporario  criado com sucesso
+2024-11-28 02:00:06 - Perfil do Interprete temporario  criado com sucesso
+2024-11-28 02:00:26 -  larissa.ncampos@gmail.com logou com exito na área de Interprete 
+2024-11-28 02:01:00 - dados pessoais do Interprete temporario  criado com sucesso
+2024-11-28 02:01:30 - Perfil do Interprete temporario  criado com sucesso
+2024-11-28 02:01:45 -  carlos.e.ferreira@gmail.com logou com exito na área de Interprete 
+2024-11-28 02:02:20 - dados pessoais do Interprete temporario  criado com sucesso
+2024-11-28 02:02:44 - Perfil do Interprete temporario  criado com sucesso
+2024-11-28 02:02:52 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-28 02:09:55 - Todos os dados do interrpete foram aprovados. ID interprete{6}
+2024-11-28 02:10:00 - Todos os dados do interrpete foram aprovados. ID interprete{7}
+2024-11-28 02:10:14 - Todos os dados do interrpete foram aprovados. ID interprete{8}
+2024-11-28 02:10:15 - Todos os dados do interrpete foram aprovados. ID interprete{9}
+2024-11-28 02:10:17 - Todos os dados do interrpete foram aprovados. ID interprete{10}
+2024-11-28 02:10:19 - Todos os dados do interrpete foram aprovados. ID interprete{11}
+2024-11-28 02:10:43 - Todos os dados do interrpete foram aprovados. ID interprete{6}
+2024-11-28 02:10:51 - Todos os dados do interrpete foram aprovados. ID interprete{7}
+2024-11-28 02:10:56 - Todos os dados do interrpete foram aprovados. ID interprete{8}
+2024-11-28 02:12:14 - Todos os dados do interrpete foram aprovados. ID interprete{9}
+2024-11-28 02:12:16 - Todos os dados do interrpete foram aprovados. ID interprete{10}
+2024-11-28 02:12:18 - Todos os dados do interrpete foram aprovados. ID interprete{11}
+2024-11-28 02:30:59 - Serviço do ID -1 foi atualizado
+2024-11-28 02:31:33 - Serviço do ID -2 foi atualizado
+2024-11-28 02:33:09 - Novo serviço criado - Conferência
+2024-11-28 02:33:22 - Serviço do ID -4 foi atualizado
+2024-11-28 02:33:51 - Novo serviço criado - Lazer e Turismo
+2024-11-28 02:34:36 - Novo serviço criado - Saúde
+2024-11-28 02:35:06 - Novo serviço criado - Empresarial
+2024-11-28 02:35:32 - Novo serviço criado - Sociais
+2024-11-28 02:35:56 - Novo serviço criado - Serviços Públicos
+2024-11-28 02:36:26 - Novo serviço criado - Pedagógico
+2024-11-28 02:36:50 - Novo serviço criado - Debate Político
+2024-11-28 02:37:22 - Novo serviço criado - Programas Políticos
+2024-11-28 02:37:45 - Novo serviço criado - Propagandas
+2024-11-28 02:42:51 -  kae.tupinamba@gmail.com logou com exito na área de Interprete 
+2024-11-28 03:28:23 - Interprete do ID_INT - foi atualizado
+2024-11-28 03:36:52 - Interprete do ID_INT - foi atualizado
+2024-11-28 03:36:59 - Interprete do ID_INT - foi atualizado
+2024-11-28 03:37:05 - Interprete do ID_INT - foi atualizado
+2024-11-28 03:44:46 - Senha do ID_INT -6 foi alterada
+2024-11-28 04:58:45 - Serviços adicionados na tabela do interprete
+2024-11-28 05:00:10 - Serviços atualizados na tabela do interprete
+2024-11-28 05:02:19 - Serviços atualizados na tabela do interprete
+2024-11-28 05:46:28 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-28 06:00:14 - Serviços atualizados na tabela do interprete
+2024-11-28 06:53:10 - Tentativa de acesso sem exito na área de Interprete
+2024-11-28 06:53:29 -  alinecosta.santos@gmail.com logou com exito na área de Interprete 
+2024-11-28 06:54:22 - Interprete do ID_INT - foi atualizado
+2024-11-28 06:54:28 - Interprete do ID_INT - foi atualizado
+2024-11-28 06:55:52 - Serviços adicionados na tabela do interprete
+2024-11-28 06:56:28 - Serviços atualizados na tabela do interprete
+2024-11-28 06:57:07 - Senha do ID_INT -8 foi alterada
+2024-11-28 06:57:19 -  alinecosta.santos@gmail.com logou com exito na área de Interprete 
+2024-11-28 07:40:51 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-28 07:40:57 - Tentativa de acesso sem exito na área do Cliente
+2024-11-28 07:41:11 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-28 07:41:31 - Agendamento efetuado com sucesso
+2024-11-28 07:44:08 - Agendamento efetuado com sucesso
+2024-11-28 07:44:16 - Agendamento efetuado pelo cliente1com sucesso
+2024-11-28 07:55:35 - Agendamento efetuado com sucesso
+2024-11-28 07:55:43 - Agendamento efetuado com sucesso
+2024-11-28 07:55:55 - Agendamento efetuado pelo cliente1com sucesso
+2024-11-28 07:57:38 - Tentativa de acesso sem exito na área de Interprete
+2024-11-28 07:57:44 - Tentativa de acesso sem exito na área de Interprete
+2024-11-28 07:58:08 -  kae.tupinamba@gmail.com logou com exito na área de Interprete 
+2024-11-28 08:01:53 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-28 08:09:13 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-28 08:35:36 -  kae.tupinamba@gmail.com logou com exito na área de Interprete 
+2024-11-28 08:44:34 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-28 08:44:40 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-28 08:45:04 - Agendamento efetuado com sucesso
+2024-11-28 08:45:12 - Agendamento efetuado com sucesso
+2024-11-28 08:45:25 - Agendamento efetuado pelo cliente1com sucesso
+2024-11-28 09:38:36 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-28 09:51:19 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-28 10:00:11 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-28 10:05:13 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-28 10:20:11 -  kae.tupinamba@gmail.com logou com exito na área de Interprete 
+2024-11-28 10:41:29 - Tentativa de acesso sem exito na área do Cliente
+2024-11-28 10:41:38 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-28 21:25:59 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-28 21:26:29 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-28 21:26:54 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-28 21:29:03 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-28 21:30:38 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-28 21:31:24 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-28 21:31:35 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-28 21:31:51 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-28 21:32:56 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-28 21:33:22 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-28 21:45:33 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-28 21:49:30 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-28 21:52:27 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-28 21:52:37 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-29 00:35:50 -  kae.tupinamba@gmail.com logou com exito na área de Interprete 
+2024-11-29 00:42:10 - Serviços atualizados na tabela do interprete
+2024-11-29 00:42:19 - Serviços atualizados na tabela do interprete
+2024-11-29 00:42:49 - Interprete do ID_INT - foi atualizado
+2024-11-29 00:57:27 - Interprete do ID_INT -6 foi atualizado
+2024-11-29 01:08:36 - Interprete do ID_INT -6 foi atualizado
+2024-11-29 01:12:59 - Interprete do ID_INT -6 foi atualizado
+2024-11-29 01:13:11 - Interprete do ID_INT -6 foi atualizado
+2024-11-29 01:13:25 - Interprete do ID_INT -6 foi atualizado
+2024-11-29 01:24:00 - Interprete do ID_INT -6 foi atualizado
+2024-11-29 01:24:25 - Interprete do ID_INT -6 foi atualizado
+2024-11-29 02:10:08 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-29 02:22:11 - Tentativa de acesso sem exito na área do Cliente
+2024-11-29 02:22:15 - Tentativa de acesso sem exito na área do Cliente
+2024-11-29 02:22:18 - Tentativa de acesso sem exito na área do Cliente
+2024-11-29 02:22:49 -  julio@cesar.com logou com exito na área do Cliente 
+2024-11-29 02:23:22 - CLIENTE do CLIENTE_INT -3 foi atualizado
+2024-11-29 02:24:08 - Avaliação efetuada com sucesso
+2024-11-29 11:15:23 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-29 11:15:49 - Tentativa de acesso sem exito na área de Interprete
+2024-11-29 11:15:56 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-29 12:34:45 -  umcaraqualquer1609@gmail.com logou com exito na área do Cliente 
+2024-11-29 12:35:00 - Avaliação efetuada com sucesso
+2024-11-29 12:43:21 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-29 12:55:41 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-29 12:56:01 - Tentativa de acesso sem exito na área do Cliente
+2024-11-29 12:56:12 - Tentativa de acesso sem exito na área do Cliente
+2024-11-29 12:56:43 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-29 13:00:04 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-29 13:15:27 - Agendamento efetuado com sucesso
+2024-11-29 14:29:38 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-29 14:33:22 - Status do contato alterado com sucesso
+2024-11-29 14:33:23 - Status do contato alterado com sucesso
+2024-11-29 14:33:24 - Status do contato alterado com sucesso
+2024-11-29 14:33:24 - Status do contato alterado com sucesso
+2024-11-29 14:33:25 - Status do contato alterado com sucesso
+2024-11-29 15:05:50 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-29 15:11:09 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-29 15:31:44 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-29 19:37:24 -  bipaceb565@gitated.com logou com exito na área de Interprete 
+2024-11-29 19:52:18 - dados pessoais do Interprete temporario  criado com sucesso
+2024-11-29 19:52:47 - Perfil do Interprete temporario  criado com sucesso
+2024-11-29 19:53:25 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-29 19:58:40 - Todos os dados do interrpete foram aprovados. ID interprete{12}
+2024-11-29 19:58:42 - Todos os dados do interrpete foram aprovados. ID interprete{12}
+2024-11-29 20:03:29 - Interprete temporario jorge@gmail.com criado com sucesso
+2024-11-29 20:36:59 -  bipaceb565@gitated.com logou com exito na área de Interprete 
+2024-11-29 20:38:58 -  bipaceb565@gitated.com logou com exito na área de Interprete 
+2024-11-29 20:39:16 - Interprete do ID_INT -2 foi atualizado
+2024-11-29 21:36:46 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-29 21:38:04 - Campos vazios na criação de novas imagens
+2024-11-29 21:38:04 - Extensão errada usada na criação de novas imagens
+2024-11-29 21:41:22 - Campos vazios na criação de novas imagens
+2024-11-29 21:41:22 - Extensão errada usada na criação de novas imagens
+2024-11-29 21:42:44 - Extensão errada usada na criação de novas imagens
+2024-11-29 21:47:02 - Criação sucedida de novas imagens
+2024-11-29 22:13:42 - Tentativa de acesso sem exito na área do Cliente
+2024-11-29 22:14:00 -  nicolascorral169@gmail.com logou com exito na área do Cliente 
+2024-11-29 22:19:12 - Agendamento efetuado com sucesso
+2024-11-29 22:44:23 - Agendamento efetuado com sucesso
+2024-11-29 22:53:17 - Agendamento efetuado com sucesso
+2024-11-29 23:58:30 - Agendamento efetuado com sucesso
+2024-11-30 00:11:22 - Agendamento efetuado com sucesso
+2024-11-30 00:11:52 - Agendamento efetuado com sucesso
+2024-11-30 00:18:44 - Agendamento efetuado com sucesso
+2024-11-30 00:18:56 - Agendamento efetuado com sucesso
+2024-11-30 00:21:17 - Agendamento efetuado com sucesso
+2024-11-30 00:21:54 - Agendamento efetuado com sucesso
+2024-11-30 00:22:55 - Agendamento efetuado com sucesso
+2024-11-30 00:23:08 - Agendamento efetuado com sucesso
+2024-11-30 00:24:08 - Agendamento efetuado com sucesso
+2024-11-30 00:24:20 - Agendamento efetuado com sucesso
+2024-11-30 00:24:34 - Agendamento efetuado com sucesso
+2024-11-30 00:24:59 - Agendamento efetuado com sucesso
+2024-11-30 00:25:04 - Agendamento efetuado pelo cliente2com sucesso
+2024-11-30 00:32:14 - Agendamento efetuado com sucesso
+2024-11-30 00:33:29 - Agendamento efetuado com sucesso
+2024-11-30 00:33:33 - Agendamento efetuado pelo cliente2com sucesso
+2024-11-30 00:36:34 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-30 00:56:41 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-30 00:56:57 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 00:57:00 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 00:57:04 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 00:57:07 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-30 00:57:20 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-11-30 00:57:37 - Agendamento efetuado com sucesso
+2024-11-30 00:57:44 - Agendamento efetuado com sucesso
+2024-11-30 00:58:43 - Agendamento efetuado com sucesso
+2024-11-30 00:58:48 - Agendamento efetuado pelo cliente1com sucesso
+2024-11-30 01:01:36 - Agendamento efetuado com sucesso
+2024-11-30 01:01:43 - Agendamento efetuado com sucesso
+2024-11-30 01:01:47 - Agendamento efetuado pelo cliente1com sucesso
+2024-11-30 01:02:59 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 01:03:03 -  corralnicolas3@gmail.com logou com exito na área de Interprete 
+2024-11-30 01:16:39 - Interprete temporario ererere@gmail.com criado com sucesso
+2024-11-30 01:22:32 - Interprete temporario netigan507@avzong.com criado com sucesso
+2024-11-30 01:25:33 - Interprete temporario jfdofodjiofdi@gmail.com criado com sucesso
+2024-11-30 01:32:12 - Interprete temporario fhdjfd@gmail.com criado com sucesso
+2024-11-30 01:33:11 - Interprete temporario fdjhfod@gmail.com criado com sucesso
+2024-11-30 01:35:09 - Interprete temporario fknnfdk@gmail.com criado com sucesso
+2024-11-30 01:37:47 - Interprete temporario cldfdj@gmail.com criado com sucesso
+2024-11-30 01:40:07 - Interprete temporario fdn65435766fdjkfj@gmail.com criado com sucesso
+2024-11-30 02:52:51 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 02:56:01 - Imagens do carrossel do ID -1 foram deletadas com sucesso
+2024-11-30 02:57:11 - Criação sucedida de novas imagens
+2024-11-30 02:57:46 - Criação sucedida de novas imagens
+2024-11-30 02:58:25 - Criação sucedida de novas imagens
+2024-11-30 03:56:54 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 03:57:03 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-30 04:27:35 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-30 04:27:46 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 04:27:52 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 04:28:03 -  nico@gmail.com logou com exito na área do Cliente 
+2024-11-30 04:38:15 - Avaliação efetuada com sucesso
+2024-11-30 04:49:08 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 04:49:43 - Administrador do ID -1 foi deletado com sucesso
+2024-11-30 04:49:51 - Administrador do ID -2 foi deletado com sucesso
+2024-11-30 04:57:55 -  akemi.t.yamamoto@gmail.com logou com exito na área de Interprete 
+2024-11-30 05:51:30 - Contato enviado com sucesso
+2024-11-30 05:52:45 - Tentativa de acesso sem exito na área de Administrador
+2024-11-30 05:52:53 - Tentativa de acesso sem exito na área de Administrador
+2024-11-30 05:53:00 - Tentativa de acesso sem exito na área de Administrador
+2024-11-30 05:57:41 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 05:57:43 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 06:00:30 - Interprete temporario amandaluanap7@gmail.com criado com sucesso
+2024-11-30 06:11:14 - Tentativa de acesso sem exito na área de Administrador
+2024-11-30 06:12:54 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 06:13:11 - Interprete temporario->interprete foi bem sucedido
+2024-11-30 06:13:34 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 06:13:47 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 06:14:04 -  amandaluanap7@gmail.com logou com exito na área de Interprete 
+2024-11-30 06:14:54 - dados pessoais do Interprete temporario  criado com sucesso
+2024-11-30 06:15:34 - Perfil do Interprete temporario  criado com sucesso
+2024-11-30 06:16:00 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 06:16:16 -  amandaluanap7@gmail.com logou com exito na área de Interprete 
+2024-11-30 06:21:52 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 06:21:55 - Todos os dados do interrpete foram aprovados. ID interprete{13}
+2024-11-30 06:22:46 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 06:22:59 -  amandaluanap7@gmail.com logou com exito na área de Interprete 
+2024-11-30 06:23:10 - Todos os dados do interrpete foram aprovados. ID interprete{13}
+2024-11-30 06:24:45 - Serviços adicionados na tabela do interprete
+2024-11-30 06:25:17 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 06:26:05 - Contato enviado com sucesso
+2024-11-30 06:28:04 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-30 06:28:58 - Cliente amandaluanap7@gmail.com criado com sucesso
+2024-11-30 06:29:11 -  amandaluanap7@gmail.com logou com exito na área do Cliente 
+2024-11-30 06:29:35 - CLIENTE do CLIENTE_INT -10 foi atualizado
+2024-11-30 06:31:51 - Agendamento efetuado com sucesso
+2024-11-30 06:33:24 - Agendamento efetuado com sucesso
+2024-11-30 06:33:29 - Agendamento efetuado pelo cliente10com sucesso
+2024-11-30 06:35:24 -  akemi.t.yamamoto@gmail.com logou com exito na área de Interprete 
+2024-11-30 06:35:51 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 06:37:01 -  kae.tupinamba@gmail.com logou com exito na área de Interprete 
+2024-11-30 06:39:11 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 06:39:18 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 06:39:31 -  amandaluanap7@gmail.com logou com exito na área do Cliente 
+2024-11-30 06:39:45 - Avaliação efetuada com sucesso
+2024-11-30 06:41:46 - Agendamento efetuado com sucesso
+2024-11-30 11:02:52 - Interprete temporario luana@gmail.com criado com sucesso
+2024-11-30 11:03:11 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 11:04:05 - Interprete temporario->interprete foi bem sucedido
+2024-11-30 11:04:34 -  luana@gmail.com logou com exito na área de Interprete 
+2024-11-30 11:05:02 - dados pessoais do Interprete temporario  criado com sucesso
+2024-11-30 11:05:27 - Perfil do Interprete temporario  criado com sucesso
+2024-11-30 11:05:52 - Todos os dados do interrpete foram aprovados. ID interprete{14}
+2024-11-30 11:06:06 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 11:06:23 - Todos os dados do interrpete foram aprovados. ID interprete{14}
+2024-11-30 11:06:34 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 11:06:43 -  luana@gmail.com logou com exito na área de Interprete 
+2024-11-30 11:07:17 - Interprete do ID_INT -12 foi atualizado
+2024-11-30 11:07:32 - Serviços adicionados na tabela do interprete
+2024-11-30 11:08:32 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-30 11:09:15 - Cliente pedreira.estudos@gmail.com criado com sucesso
+2024-11-30 11:09:37 -  pedreira.estudos@gmail.com logou com exito na área do Cliente 
+2024-11-30 11:11:14 - Agendamento efetuado com sucesso
+2024-11-30 11:11:52 - Agendamento efetuado com sucesso
+2024-11-30 11:11:57 - Agendamento efetuado pelo cliente11com sucesso
+2024-11-30 11:17:21 -  luana@gmail.com logou com exito na área de Interprete 
+2024-11-30 11:19:11 -  kae.tupinamba@gmail.com logou com exito na área de Interprete 
+2024-11-30 11:21:16 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-30 11:26:39 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-30 11:26:54 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 11:27:05 -  amandaluanap7@gmail.com logou com exito na área do Cliente 
+2024-11-30 11:27:34 - Agendamento efetuado com sucesso
+2024-11-30 11:27:44 - Agendamento efetuado com sucesso
+2024-11-30 11:27:49 - Agendamento efetuado pelo cliente10com sucesso
+2024-11-30 11:53:33 - Codigo de nova senha enviado para interprete amandaluanap7@gmail.com 
+2024-11-30 11:58:08 - Codigo enviado por Interprete.amandaluanap7@gmail.com está correto 
+2024-11-30 12:00:58 - Senha alterada com sucesso
+2024-11-30 12:01:09 -  amandaluanap7@gmail.com logou com exito na área de Interprete 
+2024-11-30 12:01:51 - Tentativa de agendamento sem exito por falta de login do cliente
+2024-11-30 12:02:01 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 12:02:18 -  amandaluanap7@gmail.com logou com exito na área do Cliente 
+2024-11-30 12:02:55 - Agendamento efetuado com sucesso
+2024-11-30 12:24:28 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 12:24:36 - Tentativa de acesso sem exito na área do Cliente
+2024-11-30 12:25:18 - Cliente admin@gmail.com criado com sucesso
+2024-11-30 12:25:24 -  admin@gmail.com logou com exito na área do Cliente 
+2024-11-30 12:36:15 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 12:38:24 -  kae.tupinamba@gmail.com logou com exito na área de Interprete 
+2024-11-30 12:49:04 - Serviços atualizados na tabela do interprete
+2024-11-30 13:32:09 - Interprete temporario makahed196@ikowat.com criado com sucesso
+2024-11-30 13:32:14 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 13:32:24 - Interprete temporario->interprete foi bem sucedido
+2024-11-30 13:32:32 -  makahed196@ikowat.com logou com exito na área de Interprete 
+2024-11-30 13:32:50 - Codigo de nova senha enviado para interprete makahed196@ikowat.com 
+2024-11-30 13:33:10 - Codigo enviado por Interprete.makahed196@ikowat.com está correto 
+2024-11-30 13:33:19 - Senha alterada com sucesso
+2024-11-30 13:33:54 -  makahed196@ikowat.com logou com exito na área de Interprete 
+2024-11-30 13:34:41 - dados pessoais do Interprete temporario  criado com sucesso
+2024-11-30 13:35:06 - Perfil do Interprete temporario  criado com sucesso
+2024-11-30 13:37:39 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 13:37:49 - Todos os dados do interrpete foram aprovados. ID interprete{14}
+2024-11-30 13:37:52 - Todos os dados do interrpete foram aprovados. ID interprete{14}
+2024-11-30 13:40:14 - Status do contato alterado com sucesso
+2024-11-30 13:40:15 - Status do contato alterado com sucesso
+2024-11-30 13:40:16 - Status do contato alterado com sucesso
+2024-11-30 13:40:17 - Status do contato alterado com sucesso
+2024-11-30 13:40:41 - Serviços adicionados na tabela do interprete
+2024-11-30 13:44:52 - Cliente makahed196@ikowat.com criado com sucesso
+2024-11-30 13:44:58 -  makahed196@ikowat.com logou com exito na área do Cliente 
+2024-11-30 13:45:14 - CLIENTE do CLIENTE_INT -11 foi atualizado
+2024-11-30 13:45:28 - CLIENTE do CLIENTE_INT -11 foi atualizado
+2024-11-30 13:45:40 - CLIENTE do CLIENTE_INT -11 foi atualizado
+2024-11-30 13:47:12 -  makahed196@ikowat.com logou com exito na área do Cliente 
+2024-11-30 13:49:16 -  makahed196@ikowat.com logou com exito na área do Cliente 
+2024-11-30 13:51:20 - Agendamento efetuado com sucesso
+2024-11-30 13:52:17 - Agendamento efetuado com sucesso
+2024-11-30 13:52:20 - Agendamento efetuado pelo cliente11com sucesso
+2024-11-30 13:58:09 - Erro ao enviar email de confirmação 
+2024-11-30 13:59:14 - Erro ao enviar email de confirmação 
+2024-11-30 14:00:07 - Codigo de nova senha enviado para interprete makahed196@ikowat.com 
+2024-11-30 14:00:19 - Codigo enviado por Interprete.makahed196@ikowat.com está correto 
+2024-11-30 14:00:26 - Senha alterada com sucesso
+2024-11-30 14:00:38 -  makahed196@ikowat.com logou com exito na área de Interprete 
+2024-11-30 14:03:39 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 14:03:44 - Tentativa de acesso sem exito na área de Interprete
+2024-11-30 14:04:02 -  kae.tupinamba@gmail.com logou com exito na área de Interprete 
+2024-11-30 14:09:18 -  makahed196@ikowat.com logou com exito na área do Cliente 
+2024-11-30 14:23:30 - Codigo de nova senha enviado para interprete amandaluanap7@gmail.com 
+2024-11-30 14:23:43 - Codigo de nova senha enviado para interprete makahed196@ikowat.com 
+2024-11-30 14:24:07 - Codigo enviado por Interprete.makahed196@ikowat.com está correto 
+2024-11-30 14:24:12 - Senha alterada com sucesso
+2024-11-30 14:35:34 - Codigo de nova senha enviado para cliente nicolascorral169@gmail.com 
+2024-11-30 14:36:33 - Codigo enviado por nicolascorral169@gmail.com cliente está correto 
+2024-11-30 14:36:37 - Senha alterada com sucesso
+2024-11-30 14:37:54 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 14:47:18 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 14:47:55 - Novo administrador criado - Teste83
+2024-11-30 14:48:06 - Tentativa de acesso sem exito na área de Administrador
+2024-11-30 14:48:18 -  fdfdhifhdi@gmail.com logou com exito na área de Administrador 
+2024-11-30 16:06:13 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 18:59:43 - Cliente memoy58191@cantozil.com criado com sucesso
+2024-11-30 18:59:49 -  memoy58191@cantozil.com logou com exito na área do Cliente 
+2024-11-30 23:04:08 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-11-30 23:04:41 -  nico@gmail.com logou com exito na área de Administrador 
+2024-11-30 23:48:07 -  celsoincrivel@gmail.com logou com exito na área de Administrador 

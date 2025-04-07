@@ -1,0 +1,8 @@
+1 - atualizar/alterar senha
+2 - atualizar/alterar status 
+3 - atualizar/alterar poder 
+
+
+4 - atualizar/alterar status 
+5 - atualizar/alterar status 
+6 - atualizar/alterar status 

@@ -1,0 +1,6 @@
+2024-06-02 17:59:56 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-06-02 18:00:07 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-06-02 19:21:26 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-06-02 19:21:28 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-06-02 22:16:03 - Administrador do ID -2 foi deletado com sucesso
+2024-06-02 22:16:41 - Administrador do ID -3 foi deletado com sucesso

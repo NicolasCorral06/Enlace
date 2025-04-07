@@ -1,0 +1,75 @@
+2024-08-08 23:06:02 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-08-09 19:51:18 - Novo administrador criado - Politica
+2024-08-09 19:59:55 - Novo serviço criado - Politica
+2024-08-09 20:07:48 - Novo serviço criado - Politica
+2024-08-09 20:09:30 - Novo serviço criado - Politica
+2024-08-09 20:17:49 - Novo serviço criado - Politica
+2024-08-09 20:27:46 - Novo serviço criado - Politica
+2024-08-09 20:31:18 - Novo serviço criado - Politica
+2024-08-09 20:33:09 - Novo serviço criado - Politica
+2024-08-09 20:36:57 - Novo serviço criado - Politica
+2024-08-09 20:46:29 - Novo serviço criado - Politica
+2024-08-09 20:58:00 - Novo administrador criado - Politica
+2024-08-09 20:58:36 - Administrador do ID -2 foi deletado com sucesso
+2024-08-09 23:03:42 - Serviço do ID -1 foi atualizado
+2024-08-09 23:07:10 - Serviço do ID -1 foi atualizado
+2024-08-09 23:10:53 - Extensão errada utilizada na atualização das imagens do ID-1
+2024-08-09 23:21:46 - Extensão errada utilizada na atualização das imagens do ID-1
+2024-08-09 23:22:58 - Serviço do ID -1 foi atualizado
+2024-08-09 23:23:58 - Serviço do ID -1 foi atualizado
+2024-08-09 23:24:37 - Serviço do ID -1 foi atualizado
+2024-08-09 23:26:52 - Serviço do ID -1 foi atualizado
+2024-08-09 23:27:02 - Serviço do ID -1 foi atualizado
+2024-08-09 23:27:15 - Serviço do ID -1 foi atualizado
+2024-08-09 23:27:24 - Serviço do ID -1 foi atualizado
+2024-08-09 23:27:33 - Extensão errada utilizada na atualização das imagens do ID-1
+2024-08-09 23:27:47 - Serviço do ID -1 foi atualizado
+2024-08-09 23:28:05 - Serviço do ID -1 foi atualizado
+2024-08-09 23:29:13 - Serviço do ID -1 foi atualizado
+2024-08-09 23:35:47 - Serviço do ID -1 foi atualizado
+2024-08-09 23:39:38 - Novo serviço criado - Politica
+2024-08-09 23:39:54 - Serviço do ID -1 foi atualizado
+2024-08-09 23:44:46 - Imagenso do ID -1 foram atualizadas com sucesso
+2024-08-09 23:57:19 - Serviço do ID -1 foi atualizado
+2024-08-10 00:01:25 - Serviço do ID -1 foi atualizado
+2024-08-10 00:03:38 - Extensão errada utilizada na atualização das imagens do ID-1
+2024-08-10 00:04:50 - Serviço do ID -1 foi atualizado
+2024-08-10 00:06:38 - Serviço do ID -1 foi atualizado
+2024-08-10 00:07:28 - Serviço do ID -1 foi atualizado
+2024-08-10 00:07:46 - Serviço do ID -1 foi atualizado
+2024-08-10 00:23:24 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-08-10 00:24:00 - Novo serviço criado - Farmacia
+2024-08-10 00:29:30 - Novo serviço criado - fazenda
+2024-08-10 00:29:40 - Serviço do ID -3 foi atualizado
+2024-08-10 00:29:49 - Serviço do ID -3 foi atualizado
+2024-08-10 00:30:00 - Serviço do ID -3 foi atualizado
+2024-08-10 01:17:06 - Serviço do ID -3 foi deletado com sucesso
+2024-08-14 21:21:58 - Cliente nicolas@gmail.com criado com sucesso
+2024-08-14 21:27:00 - Cliente nicolascorral169@gmail.com criado com sucesso
+2024-08-14 21:48:37 - Cliente julio@cesar.com criado com sucesso
+2024-08-14 22:04:40 - Tentativa de acesso sem exito na área do Cliente
+2024-08-14 22:06:25 - Tentativa de acesso sem exito na área do Cliente
+2024-08-14 22:07:40 - Tentativa de acesso sem exito na área do Cliente
+2024-08-14 22:29:35 - Cliente corralnicolas3@gmail.com criado com sucesso
+2024-08-14 22:29:52 -  corralnicolas3@gmail.com logou com exito na área do Cliente 
+2024-08-14 22:31:01 -  corralnicolas3@gmail.com logou com exito na área do Cliente 
+2024-08-14 22:31:31 -  corralnicolas3@gmail.com logou com exito na área do Cliente 
+2024-08-14 23:04:53 - Tentativa de acesso sem exito na área do Cliente
+2024-08-14 23:05:00 - Tentativa de acesso sem exito na área do Cliente
+2024-08-14 23:05:08 - Tentativa de acesso sem exito na área do Cliente
+2024-08-14 23:05:20 -  corralnicolas3@gmail.com logou com exito na área do Cliente 
+2024-08-14 23:05:39 -  corralnicolas3@gmail.com logou com exito na área do Cliente 
+2024-08-14 23:10:56 -  corralnicolas3@gmail.com logou com exito na área do Cliente 
+2024-08-14 23:28:55 -  nico@gmail.com logou com exito na área do Cliente 
+2024-08-14 23:28:59 -  nico@gmail.com logou com exito na área do Cliente 
+2024-08-15 00:20:35 -  nico@gmail.com logou com exito na área do Cliente 
+2024-08-15 00:23:40 -  nico@gmail.com logou com exito na área do Cliente 
+2024-08-15 00:26:06 - Tentativa de acesso sem exito na área do Cliente
+2024-08-15 00:26:31 - Tentativa de acesso sem exito na área do Cliente
+2024-08-15 00:34:09 - Cliente nicolascorral169@gmail.com criado com sucesso
+2024-08-15 00:34:20 -  nicolascorral169@gmail.com logou com exito na área do Cliente 
+2024-08-15 00:37:42 -  nico@gmail.com logou com exito na área do Cliente 
+2024-08-20 20:19:17 - Cliente julio@cesar.com criado com sucesso
+2024-08-20 20:19:49 -  julio@cesar.com logou com exito na área do Cliente 
+2024-08-20 20:24:47 - Cliente ggg@gmail.com criado com sucesso
+2024-08-20 20:25:01 -  nico@gmail.com logou com exito na área do Cliente 

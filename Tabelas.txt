@@ -1,0 +1,28 @@
+CREATE TABLE interprete perfil (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_int INT NOT NULL,
+    foto_perfil VARCHAR(255),
+    video_apre VARCHAR(255),
+    texto_apre varchar(255),
+    formacao VARCHAR(255),
+    tempo_exp varchar(255),
+    genero  varchar(255),
+    corRaca  varchar(255),
+    data_hora DATETIME,
+    status int(1)
+);
+
+CREATE TABLE interprete_documentos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    id_int INT NOT NULL,
+    rg_frente VARCHAR(255),
+    rg_verso VARCHAR(255),
+    comp_resi VARCHAR(255),
+    car_trabalho VARCHAR(255),
+    ante_criminais VARCHAR(255),
+    db1 VARCHAR(255),
+    db2 VARCHAR(255),
+    db3 VARCHAR(255),
+    data_hora DATETIME,
+    status int(1)
+);

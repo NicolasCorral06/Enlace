@@ -1,0 +1,722 @@
+
+    
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: var(--cor-fundo);
+        font-family: Poppins, Roboto, Helvetica, Arial, sans-serif !important;
+        font-weight: 300;
+        font-size: 16px;
+        overflow-x: hidden;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+
+    .text-content {
+        font-size: inherit; 
+    }
+
+    /* TEMA LIGHT */
+    :root, :root[data-theme='dark'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107; 
+        --cor-terciaria: #6C757D; 
+        --cor-fundo: #FFF; 
+        --cor-fundo-maisclaro: #fff;
+        --cor-preto-light: #000; 
+        --cor-branco-light: #fff; 
+        --cor-sombra-preta-light: rgba(0, 0, 0, 0.05);
+    }
+    /* TEMA DARK */
+    :root[data-theme='light'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107;
+        --cor-terciaria: #6C757D;
+        --cor-fundo: #2f2f2f; 
+        --cor-fundo-maisclaro: #555555;
+        --cor-preto-light: #fff; 
+        --cor-branco-light: #000; 
+        --cor-sombra-preta-light: rgba(255, 255, 255, 0.05);
+    }
+
+    /* ---------- NAVBAR ---------- */
+
+   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+   .bg-light {
+       box-shadow: 0 4px 6px var(--cor-sombra-preta-light);
+       background-color: var(--cor-fundo) !important;
+   }
+
+   .rowNavbar {
+       height: 10vh;
+       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+   }
+
+   .colLogo {
+       display: flex;
+       align-items: center;
+       padding-left: 3%;
+   }
+
+   .colLogo img {
+       width: 180px;
+   }
+
+   .nav-link {
+       color: var(--cor-preto-light) !important;
+       transition: color 0.3s ease;
+   }
+
+   .nav-link:hover {
+       color: var(----cor-principal);
+   }
+
+   .buttonContatos {
+       border: 1px solid var(----cor-principal);
+       background: transparent;
+       color: var(----cor-principal);
+       padding: 8px 16px;
+       font-size: 15px;
+       text-align: center;
+       transition: background-color 0.3s;
+       width: 180px;
+       border-radius: 10px !important;
+   }
+
+   .buttonContatos:hover {
+       background-color: #bce2e747;
+       color: var(----cor-principal);
+       text-decoration: none;
+   }
+
+   .buttonPerfil{
+       color: var(--cor-branco-light);
+       background-color: var(----cor-principal);
+       padding: 8px 16px;
+       font-size: 15px;
+       border: none;
+       text-align: center;
+       width: 150px;
+       border-radius: 10px !important;
+   }
+
+   .buttonPerfil:hover{
+        text-decoration: none;
+        color: var(--cor-branco-light);
+        background-color: var(----cor-principal);
+        padding: 8px 16px;
+        font-size: 15px;
+        border: none;
+        text-align: center;
+        width: 150px;
+   }
+
+   #toggleTheme{
+        color: var(----cor-principal);
+        font-size: 1.4rem;
+        margin-left: 1%;
+        cursor: pointer;
+   }
+
+   .dropdown-menu{
+        width: 20%;
+        height: 40vh;
+        left: 78%;
+        background-color: var(--cor-fundo) !important;
+        cursor: pointer;
+   }
+
+   .header-toggle{
+        border: 1px solid var(----cor-principal);
+        color: var(----cor-principal);
+        padding: 5%;
+        margin: 5% 5% 0% 5%;
+        text-align: center;
+   }
+
+   .header-toggle span{
+        color: var(----cor-principal);
+    }
+
+
+   .navbar-toggler {
+       border: none; 
+       padding: 0; 
+   }
+
+   .navbar-toggler:focus {
+       outline: none; 
+   }
+
+   .navbar-toggler-icon {
+       width: 30px; 
+       height: 2px; 
+       background-color: transparent; 
+   }
+
+   .navbar-toggler:before,
+   .navbar-toggler:after,
+   .navbar-toggler span {
+       content: '';
+       display: block;
+       width: 30px; 
+       height: 2px; 
+       background-color: var(----cor-principal); 
+       margin: 6px auto;
+   }
+
+   
+   /* Para tablets */
+   @media (max-width: 1100px) {
+       .navbar-nav {
+           align-items: center; 
+           display: flex;
+           justify-content: center;
+       }
+
+       .buttonExtras {
+           position: absolute; 
+       }
+
+       .colLogo {
+           display: flex;
+           align-items: center;
+           padding-left: 30%;
+       }
+
+       .buttonContatos {
+           width: 200px;
+           border: 1px solid var(----cor-principal);
+           background: transparent;
+           color: var(----cor-principal);
+           padding: 8px 16px;
+           font-size: 15px;
+           text-align: center;
+           transition: background-color 0.3s;
+           margin-top: 2.5%;
+           border-radius: 10px;
+       }
+
+       .buttonContatos:hover {
+           background-color: var(----cor-principal);
+           color: var(--cor-branco-light);
+       }
+
+       .buttonPerfil {
+           width: 200px;
+           color: var(--cor-branco-light);
+           background-color: var(----cor-principal);
+           padding: 8px 16px;
+           font-size: 15px;
+           border: none;
+           text-align: center;
+           margin-left: -1%;
+           margin-top: 2.5%;
+           margin-bottom: 5%;
+           border-radius: 10px;
+       }
+
+       #toggleTheme{
+        color: var(----cor-principal);
+        font-size: 1.4rem;
+        cursor: pointer;
+        margin-right: 50%;
+        margin-top: -7%;
+        z-index: 1000;
+      }
+   }
+
+   /* Para dispositivos móveis */
+   @media (max-width: 576px) {
+       .navbar-nav {
+           align-items: center; 
+           display: flex;
+           justify-content: center;
+       }
+
+       .buttonExtras {
+           position: absolute; 
+       }
+
+       .colLogo {
+           display: flex;
+           align-items: center;
+           padding-left: 30%;
+       }
+
+       .buttonContatos {
+           width: 200px;
+           border: 1px solid var(----cor-principal);
+           background: transparent;
+           color: var(----cor-principal);
+           padding: 8px 16px;
+           font-size: 15px;
+           text-align: center;
+           transition: background-color 0.3s;
+           margin-top: 2.5%;
+           border-radius: 10px;
+       }
+
+       .buttonContatos:hover {
+           background-color: var(----cor-principal);
+           color: var(--cor-branco-light);
+       }
+
+       .buttonPerfil {
+           width: 200px;
+           color: var(--cor-branco-light);
+           background-color: var(----cor-principal);
+           padding: 8px 16px;
+           font-size: 15px;
+           border: none;
+           text-align: center;
+           margin-left: -1%;
+           margin-top: 2.5%;
+           margin-bottom: 5%;
+           border-radius: 10px;
+       }
+
+       #toggleTheme{
+            color: var(----cor-principal);
+            font-size: 1.4rem;
+            cursor: pointer;
+            margin-right: 50%;
+            margin-top: -10%;
+            z-index: 1000;
+        }
+
+
+        .divImgSobreLinha {
+            width: 90%;
+            height: 60%;
+            border-radius: 50%;
+            z-index: 1000;
+            justify-content: center;
+            display: flex;
+            align-items: center;
+            margin-left: 50%;
+            margin-top: 25%;
+        }
+        
+        .imagemSobreLinha {
+            width: 100%;
+            border-radius: 50%; box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+        }
+   }
+   
+    /* ---------- FIM NAVBAR ---------- */
+
+
+
+    /* ---------- ALTERAR FONTE --------------- */
+
+    .fixed-button {
+        position: fixed;
+        top: 35%;
+        right: 0;
+        transform: translateY(-50%);
+        z-index: 800;
+        padding: 8px 3px;
+        background-color: #ffffff;
+        border-radius: 5px 0 0 5px;
+        text-decoration: none;
+        font-size: 15px;
+        transition: background-color 0.3s;
+        cursor: pointer;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+         }
+    
+    .fixed-button button{
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+
+    /* ---------- FIM ALTERAR FONTE --------------- */
+
+
+
+
+.fotoFixa {
+    position: sticky;
+    top: 0;
+    height: 100vh; /* Ajustar altura */
+    background-color: #2e6b73;
+    z-index: 1000;
+}
+
+.scrollable-content {
+    height: auto; /* Permitir que a altura se ajuste conforme o conteúdo */
+    position: relative;
+}
+
+.scrollable-content-inner {
+    height: auto; /* Ajustar conforme o conteúdo */
+    overflow-y: auto; /* Permitir rolagem */
+}
+
+.colDois {
+    padding: 25px 6.5% 0% 30%; /* Ajustar padding */
+    height: 100vh;
+    margin-top: 5%;
+}
+
+
+.divImgSobreLinha {
+    width: 90%;
+    height: 60%;
+    border-radius: 50%;
+    z-index: 1000;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-left: 50%;
+    margin-top: 25%;
+}
+
+.imagemSobreLinha {
+    width: 100%;
+    border-radius: 50%; box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.1);
+}
+
+.colUm {
+    padding: 22% 0% 0% 33%;
+    margin-bottom: 15%;
+}
+
+.colUm p {
+    color: #2e6b73;
+    font-size: 18px;
+}
+
+.colUm h1 {
+    font-size: 52px;
+    margin-top: 3.5%;
+    font-weight: 100;
+    color: var(--cor-preto-light);
+}
+
+.colUm span {
+    color: #2e6b73;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.colUm h2 {
+    margin-top: 2%;
+    font-size: 22px;
+    font-weight: 100;
+    color: var(--cor-preto-light);
+}
+
+.button-primary {
+    border: 1px solid #2e6b73;
+    margin-top: 2.5%;
+    background-color: var(--cor-fundo);
+    padding: 1.5% 2.5%;
+    cursor: pointer;
+}
+
+.button span, .button i {
+    font-size: 1.25rem;
+    text-transform: uppercase;
+}
+
+.button-primary span, .button-primary i {
+    color: #2e6b73;
+    font-size: 15px;
+}
+
+.col-1 {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    background-color: var(--cor-fundo);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.col-1 i {
+    color: #2e6b73;
+    font-size: 1.2rem;
+    margin: 1.5rem;
+    cursor: pointer;
+}
+
+.colDois {
+    padding: 25% 6.5% 10% 30%;
+    height: auto;
+    min-height: 110vh;
+}
+
+.colDois h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-bottom: 10px;
+    font-family: "Roboto", sans-serif;
+    color: var(--cor-preto-light);
+}
+
+.colDois h1::after {
+    content: '';
+    display: block;
+    width: 100px;
+    height: 3px;
+    background-color: #2e6b73;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.colDois p {
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+    color: var(--cor-preto-light);
+}
+
+
+/* -------- CSS CAMPO SERVIÇOS ---------- */
+.carousel-container {
+    padding: 8% 10% 2% 10%;
+    overflow: hidden;   
+    margin-top: 10%;
+    height: auto;
+}
+
+.carousel-container h1{
+    font-size: 1.4rem;
+    margin-bottom: 2%;
+    margin-left: 1%;
+    color: var(--cor-preto-light);
+}
+
+.carousel-item {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    border: 1px solid #2e6b73;
+    background: #2e6b73;
+}
+
+.carousel-item .col-9{
+    padding: 2.5% 10% 2.5% 12%;
+    color: #fff;
+}
+
+.carousel-item .col-3{
+    padding: 0% 10% 0% 0%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.carousel-item .col-3 a{
+    padding: 10% 20%;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #2e6b73;
+    font-weight: 400;
+    background: var(--cor-branco-light)fff;
+}
+
+.carousel-item h5{
+    font-size: 1.7rem;
+}
+
+.carousel-item p{
+    font-weight: 100;
+}
+
+.card {
+    height: 100%; 
+    border: none;
+    background: #2e6b73;
+    border-radius: 20px;
+}
+
+
+
+/* -------- CSS CAMPO VIDEO -------- */
+
+.rowVideo {
+    margin-top: 15%;
+    height: auto;
+    min-height: 80vh;
+    padding: 5% 10%;
+}
+
+.colVideo iframe {
+    width: 100%; /* Ajusta o iframe para ocupar toda a largura */
+    height: 70vh; /* Altura do vídeo */
+    margin-top: 3%;
+}
+
+.linha-divisoria {
+    border: none; 
+    border-top: 1px solid #2e6b73; 
+    margin: 20px 0; 
+}
+
+.titulo {
+    margin: 0;
+    font-size: 1.3rem;
+    color: var(--cor-preto-light);
+}
+
+.btnInfos{
+    background: var(--cor-fundo);
+    border: 1px solid #2e6b73;
+    border-radius: 20px;
+    color: #2e6b73;
+    padding: 1% 2%;
+    cursor: pointer;
+}
+
+.btnInfos:hover{
+    background: #abc8cc53;
+    border: 1px solid #2e6b73;
+    border-radius: 20px;
+    color: #2e6b73;
+    padding: 1% 2%;
+    cursor: pointer;
+}
+
+
+/* --------- CSS TUDO ---------- */
+
+.rowTudo{
+    height: auto;
+    width: 100%;
+    margin: 0;
+    padding: 0% 8%;
+    margin-top: 10%;
+}
+
+.rowTudo .col-4{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.cardInfosUm, .cardInfosDois, .cardInfosTres{
+    background: #2e6b73;
+    border-radius: 15px;
+    width: 100%;
+    min-height: 35vh;
+    height: auto;
+    padding: 3% 25% 5% 5%;
+}
+
+.cardInfosUm p, .cardInfosDois p, .cardInfosTres p {
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 10px;
+    background: #85aaae;
+    padding: 1.2% 5%;
+    margin-top: 3%;
+}
+
+
+.rowTudo h3{
+    font-size: 1.2rem;
+    color: #2e6b73;
+    margin-bottom: 5%;
+}
+
+.rowTudo h2{
+    font-size: 2.6rem;   
+    color: var(--cor-preto-light);
+}
+
+.rowTudo .colTitulo{
+    padding: 0% 15% 0% 1.5%;
+}
+
+.colTitulo h1{
+    font-size: 1.5rem;
+    color: var(--cor-branco-light);
+}
+
+
+.rowTudo .colTexto{
+    padding: 5% 5% 0% 2%;
+    font-size: 1.3rem;
+    color: var(--cor-preto-light);
+    margin-bottom: 10%;
+}
+
+.colTexto a{
+    color: #2e6b73;
+}
+
+.cardInfosUm h1, .cardInfosDois h1, .cardInfosTres h1{
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+
+/* --------- CSS CONTATOS ----------- */
+.rowContatos{
+    padding: 10% 7%;
+    background: var(----cor-principal);
+    margin-top: 10%;
+}
+
+.rowContatos .col-4{
+    width: 100%;
+    height: auto;
+    min-height: 30vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.cardContatos i{
+    font-size: 2.8rem;
+}
+
+.cardContatos h1{
+    font-size: 1.2rem;
+    color: var(--cor-preto-light);
+}
+
+.cardContatos a, .cardContatos p{
+    text-decoration: none;
+    color: var(--cor-preto-light);
+}
+
+.rowContatos .cardContatos{
+    min-height: 30vh;
+    height: auto;
+    width: 100%;
+    background-color: var(--cor-fundo-maisclaro);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    text-align: center;
+    color: #2e6b73;
+    padding: 5% 0%;
+}
+
+
+
+
+
+
+
+
+

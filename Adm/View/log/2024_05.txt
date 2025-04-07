@@ -1,0 +1,183 @@
+2024-05-03 01:49:25 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 01:51:52 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-03 01:52:01 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 01:52:01 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 01:52:03 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 01:52:03 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 01:52:04 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 01:52:04 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 01:52:06 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 01:52:06 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 01:52:07 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 01:52:07 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 01:54:08 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 01:54:08 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 01:54:10 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 01:54:10 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 01:54:11 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-03 01:57:50 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 01:57:50 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 01:57:52 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 01:57:52 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:01:03 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:01:03 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:01:07 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:01:07 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:20:38 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:20:38 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:20:38 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-03 02:20:50 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:20:50 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:20:51 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:20:51 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:21:23 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:21:23 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:21:24 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:21:24 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:21:26 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:21:26 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:48:54 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:48:54 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:48:56 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:48:56 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:49:28 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:49:28 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:58:19 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:58:19 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:58:20 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-03 02:58:24 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:58:24 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:58:27 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:58:27 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:58:28 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:58:28 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:58:34 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 02:58:34 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:58:38 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 02:58:40 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-03 03:00:29 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:00:32 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:00:34 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:00:37 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:01:48 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:01:50 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-03 03:01:55 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 03:01:55 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:05:27 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 03:05:27 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:05:33 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-03 03:05:33 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:05:36 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:06:08 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-03 03:06:14 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:06:31 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:06:41 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:07:04 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-03 03:07:29 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:07:45 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:08:01 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-03 03:08:06 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:08:14 - Tentativa de acesso sem exito na área de Administrador
+2024-05-03 03:08:19 - Tentativa de acesso sem exito na área de Administrador
+2024-05-20 23:34:11 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-20 23:34:15 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-20 23:34:49 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-20 23:37:36 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-20 23:37:45 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-20 23:38:50 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-20 23:42:37 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-20 23:44:58 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-20 23:46:10 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 01:01:22 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 01:01:24 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 21:07:30 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 21:07:32 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 21:42:18 - Atualização falha dos dados do ID1
+2024-05-21 21:47:33 - Atualização falha dos dados do ID - 1 dos ADM
+2024-05-21 21:48:19 - Atualização falha dos dados do ID - 1 dos ADM
+2024-05-21 21:48:43 - Atualização falha dos dados do ID - 1 dos ADM
+2024-05-21 21:48:52 - Atualização falha dos dados do ID - 1 dos ADM
+2024-05-21 21:51:04 - Atualização falha dos dados do ID - 1 dos ADM
+2024-05-21 21:51:28 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 21:51:35 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 21:51:42 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 21:55:18 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 21:56:27 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 21:57:21 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 21:57:38 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 21:57:51 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 23:06:20 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 23:06:29 - Tentativa de acesso sem exito na área de Administrador
+2024-05-21 23:06:33 - Tentativa de acesso sem exito na área de Administrador
+2024-05-21 23:07:42 - Tentativa de acesso sem exito na área de Administrador
+2024-05-21 23:07:44 - Tentativa de acesso sem exito na área de Administrador
+2024-05-21 23:07:47 - Tentativa de acesso sem exito na área de Administrador
+2024-05-21 23:11:58 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 23:12:12 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 23:13:14 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 23:13:22 - Tentativa de acesso sem exito na área de Administrador
+2024-05-21 23:13:32 - Tentativa de acesso sem exito na área de Administrador
+2024-05-21 23:14:40 - Tentativa de acesso na área de administrador com campos vazios
+2024-05-21 23:14:40 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 23:18:47 - Tentativa de acesso sem exito na área de Administrador
+2024-05-21 23:18:49 - Tentativa de acesso sem exito na área de Administrador
+2024-05-21 23:19:03 - Tentativa de acesso sem exito na área de Administrador
+2024-05-21 23:19:06 - Tentativa de acesso sem exito na área de Administrador
+2024-05-21 23:20:01 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 23:20:12 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 23:20:23 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 23:21:22 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 23:21:27 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 23:21:42 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 23:21:49 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 23:24:51 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 23:33:29 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 23:33:32 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 23:42:09 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-21 23:42:38 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 23:43:24 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-21 23:50:20 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-22 00:25:09 - Novo administrador criado - Daniel Xavier Gualberto
+2024-05-22 00:27:14 - Novo administrador criado - Daniel Xavier Gualberto
+2024-05-22 00:33:25 - Administrador do ID -3 foi deletado com sucesso
+2024-05-22 00:33:28 - Administrador do ID -2 foi deletado com sucesso
+2024-05-22 00:33:40 - Novo administrador criado - Daniel Xavier Gualberto
+2024-05-22 01:17:30 - Novo administrador criado - Daniel Xavier Gualberto
+2024-05-22 01:31:04 - Administrador do ID -4 foi deletado com sucesso
+2024-05-22 01:31:07 - Administrador do ID -5 foi deletado com sucesso
+2024-05-22 01:34:06 - Novo administrador criado - CelsoMito2
+2024-05-23 04:31:37 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-23 04:31:58 - Novo administrador criado - oi
+2024-05-23 20:31:26 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-23 20:44:07 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 20:58:59 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 21:01:05 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 21:04:03 - Novo administrador criado - Daniel Xavier Gualberto
+2024-05-23 21:04:17 - Tentativa de acesso sem exito na área de Administrador
+2024-05-23 21:04:31 -  dxg@gmail.com logou com exito na área de Administrador 
+2024-05-23 21:05:00 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-23 21:05:09 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 21:05:13 - Administrador do ID -8 foi deletado com sucesso
+2024-05-23 21:30:53 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 21:47:26 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 21:57:50 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-23 21:57:59 - Novo administrador criado - Daniel Xavier Gualberto
+2024-05-23 21:58:07 - Tentativa de acesso sem exito na área de Administrador
+2024-05-23 21:58:14 -  dxg@gmail.com logou com exito na área de Administrador 
+2024-05-23 21:58:18 - Administrador do ID -9 foi deletado com sucesso
+2024-05-23 22:03:00 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-05-23 22:12:18 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 22:12:34 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 22:12:43 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 22:12:48 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 22:13:12 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 22:13:18 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 22:13:25 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 22:23:55 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 22:25:12 - Atualização dos dados do ID - 1 dos ADM ocorreram com exito
+2024-05-23 23:06:08 - Novo administrador criado - Daniel Xavier Gualberto
+2024-05-23 23:06:15 - Administrador do ID -10 foi deletado com sucesso
+2024-05-23 23:06:28 - Novo administrador criado - Daniel Xavier Gualberto
+2024-05-23 23:06:43 -  dxg@gmail.com logou com exito na área de Administrador 
+2024-05-23 23:06:47 - Administrador do ID -11 foi deletado com sucesso
+2024-05-23 23:06:52 -  celsoincrivel@gmail.com logou com exito na área de Administrador 

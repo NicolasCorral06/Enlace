@@ -1,0 +1,481 @@
+
+    
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: var(--cor-fundo);
+        font-family: Poppins, Roboto, Helvetica, Arial, sans-serif !important;
+        font-weight: 300;
+        font-size: 16px;
+        overflow-x: hidden;
+    }
+    .text-content {
+        font-size: inherit; 
+    }
+
+    /* TEMA LIGHT */
+    :root, :root[data-theme='dark'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107; 
+        --cor-terciaria: #6C757D; 
+        --cor-fundo: #FFFFFF; 
+        --cor-fundo-maisclaro: #ffffff;
+        --cor-preto-light: #000000; 
+        --cor-branco-light: #ffffff; 
+        --cor-sombra-preta-light: rgba(0, 0, 0, 0.05);
+    }
+    /* TEMA DARK */
+    :root[data-theme='light'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107;
+        --cor-terciaria: #6C757D;
+        --cor-fundo: #2f2f2f; 
+        --cor-fundo-maisclaro: #555555;
+        --cor-preto-light: #ffffff; 
+        --cor-branco-light: #000000; 
+        --cor-sombra-preta-light: rgba(255, 255, 255, 0.05);
+    }
+
+    /* ---------- NAVBAR ---------- */
+
+   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+   .bg-light {
+       box-shadow: 0 4px 6px var(--cor-sombra-preta-light);
+       background-color: var(--cor-fundo) !important;
+   }
+
+   .rowNavbar {
+       height: 10vh;
+       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+   }
+
+   .colLogo {
+       display: flex;
+       align-items: center;
+       padding-left: 3%;
+   }
+
+   .colLogo img {
+       width: 180px;
+   }
+
+   .nav-link {
+       color: var(--cor-preto-light) !important;
+       transition: color 0.3s ease;
+   }
+
+   .nav-link:hover {
+       color: var(----cor-principal);
+   }
+
+   .buttonContatos {
+       border: 1px solid var(----cor-principal);
+       background: transparent;
+       color: var(----cor-principal);
+       padding: 8px 16px;
+       font-size: 15px;
+       text-align: center;
+       transition: background-color 0.3s;
+       width: 180px;
+       border-radius: 10px !important;
+   }
+
+   .buttonContatos:hover {
+       background-color: #bce2e747;
+       color: var(----cor-principal);
+       text-decoration: none;
+   }
+
+   .buttonPerfil{
+       color: #fff;
+       background-color: var(----cor-principal);
+       padding: 8px 16px;
+       font-size: 15px;
+       border: none;
+       text-align: center;
+       width: 150px;
+       border-radius: 10px !important;
+   }
+
+   .buttonPerfil:hover{
+        text-decoration: none;
+        color: #fff;
+        background-color: var(----cor-principal);
+        padding: 8px 16px;
+        font-size: 15px;
+        border: none;
+        text-align: center;
+        width: 150px;
+   }
+
+   #toggleTheme{
+        color: var(----cor-principal);
+        font-size: 1.4rem;
+        margin-left: 1%;
+        cursor: pointer;
+   }
+
+   .dropdown-menu{
+        width: 20%;
+        height: 40vh;
+        left: 78%;
+        background-color: var(--cor-fundo) !important;
+        cursor: pointer;
+   }
+
+   .header-toggle{
+        border: 1px solid var(----cor-principal);
+        color: var(----cor-principal);
+        padding: 5%;
+        margin: 5% 5% 0% 5%;
+        text-align: center;
+   }
+
+   .header-toggle span{
+        color: var(----cor-principal);
+    }
+
+
+   .navbar-toggler {
+       border: none; 
+       padding: 0; 
+   }
+
+   .navbar-toggler:focus {
+       outline: none; 
+   }
+
+   .navbar-toggler-icon {
+       width: 30px; 
+       height: 2px; 
+       background-color: transparent; 
+   }
+
+   .navbar-toggler:before,
+   .navbar-toggler:after,
+   .navbar-toggler span {
+       content: '';
+       display: block;
+       width: 30px; 
+       height: 2px; 
+       background-color: var(----cor-principal); 
+       margin: 6px auto;
+   }
+
+   
+   /* Para tablets */
+   @media (max-width: 1100px) {
+       .navbar-nav {
+           align-items: center; 
+           display: flex;
+           justify-content: center;
+       }
+
+       .buttonExtras {
+           position: absolute; 
+       }
+
+       .colLogo {
+           display: flex;
+           align-items: center;
+           padding-left: 30%;
+       }
+
+       .buttonContatos {
+           width: 200px;
+           border: 1px solid var(----cor-principal);
+           background: transparent;
+           color: var(----cor-principal);
+           padding: 8px 16px;
+           font-size: 15px;
+           text-align: center;
+           transition: background-color 0.3s;
+           margin-top: 2.5%;
+           border-radius: 10px;
+       }
+
+       .buttonContatos:hover {
+           background-color: var(----cor-principal);
+           color: var(--cor-branco-light);
+       }
+
+       .buttonPerfil {
+           width: 200px;
+           color: var(--cor-branco-light);
+           background-color: var(----cor-principal);
+           padding: 8px 16px;
+           font-size: 15px;
+           border: none;
+           text-align: center;
+           margin-left: -1%;
+           margin-top: 2.5%;
+           margin-bottom: 5%;
+           border-radius: 10px;
+       }
+
+       #toggleTheme{
+        color: var(----cor-principal);
+        font-size: 1.4rem;
+        cursor: pointer;
+        margin-right: 50%;
+        margin-top: -7%;
+        z-index: 1000;
+      }
+   }
+
+   /* Para dispositivos móveis */
+   @media (max-width: 576px) {
+       .navbar-nav {
+           align-items: center; 
+           display: flex;
+           justify-content: center;
+       }
+
+       .buttonExtras {
+           position: absolute; 
+       }
+
+       .colLogo {
+           display: flex;
+           align-items: center;
+           padding-left: 30%;
+       }
+
+       .buttonContatos {
+           width: 200px;
+           border: 1px solid var(----cor-principal);
+           background: transparent;
+           color: var(----cor-principal);
+           padding: 8px 16px;
+           font-size: 15px;
+           text-align: center;
+           transition: background-color 0.3s;
+           margin-top: 2.5%;
+           border-radius: 10px;
+       }
+
+       .buttonContatos:hover {
+           background-color: var(----cor-principal);
+           color: var(--cor-branco-light);
+       }
+
+       .buttonPerfil {
+           width: 200px;
+           color: var(--cor-branco-light);
+           background-color: var(----cor-principal);
+           padding: 8px 16px;
+           font-size: 15px;
+           border: none;
+           text-align: center;
+           margin-left: -1%;
+           margin-top: 2.5%;
+           margin-bottom: 5%;
+           border-radius: 10px;
+       }
+
+       #toggleTheme{
+            color: var(----cor-principal);
+            font-size: 1.4rem;
+            cursor: pointer;
+            margin-right: 50%;
+            margin-top: -10%;
+            z-index: 1000;
+        }
+   }
+   
+    /* ---------- FIM NAVBAR ---------- */
+
+
+
+    /* ---------- ALTERAR FONTE --------------- */
+
+    .fixed-button {
+        position: fixed;
+        top: 35%;
+        right: 0;
+        transform: translateY(-50%);
+        z-index: 800;
+        padding: 8px 3px;
+        background-color: #ffffff;
+        border-radius: 5px 0 0 5px;
+        text-decoration: none;
+        font-size: 15px;
+        transition: background-color 0.3s;
+        cursor: pointer;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+         }
+    
+    .fixed-button button{
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+
+    /* ---------- FIM ALTERAR FONTE --------------- */
+
+
+
+   /* ----------- CSS CONTEUDO -------- */
+   .rowBanner-servico{
+        background-color: var(----cor-principal);
+        padding: 5% 10%;
+        height: auto;
+   }
+
+   .colTexto-banner h2{
+        color: var(--cor-branco-light);
+        font-size: 1.2rem;
+   }
+
+   .colTexto-banner h2::after {
+        color: var(--cor-preto-light);
+        content: '';
+        display: block;
+        width: 100px;
+        height: 3px;
+        background-color: #FDB92E;
+        position: absolute;
+        left: 10;
+        margin-bottom: 5%;
+    }
+
+   .colTexto-banner h1{
+        color: var(--cor-branco-light);
+        margin-top: 5%;
+        font-size: 2.5rem;
+    }
+
+    .colTexto-banner p{
+        color: var(--cor-branco-light);
+        margin-top: 2.5%;
+        font-size: 1rem;
+    }
+
+    .colPreco-banner{
+        padding: 5% 10% 0% 15%;
+    }
+
+    .colPreco-banner .preco i{
+        background-color: var(----cor-principal);
+        padding: 5%;
+        border-radius: 50px;
+        font-size: 1.5rem;
+        color: var(--cor-branco-light);
+    }
+
+    .colPreco-banner span{
+        color: var(--cor-branco-light);
+        color: var(----cor-principal);
+        font-weight: bold;
+        font-size: 1.5rem;
+        margin-left: 5%;
+    }
+
+    .colPreco-banner .preco{
+        background-color: var(--cor-branco-light);
+        border-radius: 30px;
+        padding: 10% 0%;
+        text-align: center;
+    }
+
+    .colPreco-banner a{
+        text-decoration: none;
+        color: var(--cor-branco-light);
+        border: 2px solid var(--cor-branco-light);
+        background-color: var(----cor-principal);
+        font-weight: 400;
+        padding: 5.5% 24%;
+        border-radius: 40px;
+        margin-top: 5%;
+        margin-left: 2.5%;
+    }
+
+
+
+    /* -------- agendamento geral -------- */
+    form{
+        padding: 5% 5% 2.5% 2.5%;
+    }
+
+    form h1{
+        margin-left: 5%;
+        margin-bottom: 5%;
+        font-size: 1.9rem;
+        color: var(--cor-preto-light);
+    }
+
+    form h1::after {
+        color: var(--cor-preto-light);
+        content: '';
+        display: block;
+        width: 1350px;
+        margin-top: 1.5%;
+        height: 3px;
+        background-color: var(----cor-principal);
+        position: absolute;
+        left: 10;
+        margin-bottom: 5%;
+    }
+
+    #date-picker {
+        width: 300px;
+        padding: 10px;
+        font-size: 16px;
+    }
+
+    .flatpickr-calendar {
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .colData-agendamento{
+        padding: 0% 5%;
+        color: var(--cor-preto-light);
+        margin-bottom: 5%;
+    }
+
+    .colData-agendamento input{
+        width: 85%;
+        margin-bottom: 5%;
+        padding: 2.5%;
+        border-radius: 20px;
+    }
+
+    .colSelects-agendamento{
+        margin-bottom: 5%;
+        color: var(--cor-preto-light);
+    }
+
+    .colSelects-agendamento select{
+        padding: 2.5%;
+        border-radius: 20px;
+        width: 80%;
+    }
+
+    .colInfos-agendamento{
+        background-color: #2e6b73;
+        color: var(--cor-branco-light);
+        height: auto;
+        padding: 2.5%;
+        border-radius: 30px;
+        margin-bottom: 5%;
+    }
+
+    .colInfos-agendamento span{
+        right: 0;
+        margin-right: 10%;
+        position: absolute;
+    }
+
+    .colInfos-agendamento input{
+        background-color: var(--cor-branco-light);
+        width: 100%;
+        color: var(----cor-principal);
+        border: none;
+        border-radius: 10px;
+        padding: 2.5% 0%;
+    }

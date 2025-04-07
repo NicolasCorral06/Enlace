@@ -1,0 +1,265 @@
+
+    html {
+        scroll-behavior: smooth;
+    }
+    
+
+    
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: var(--cor-fundo);
+        font-family: Poppins, Roboto, Helvetica, Arial, sans-serif !important;
+        font-weight: 300;
+        font-size: 16px;
+        overflow-x: hidden;
+    }
+
+    .text-content {
+        font-size: inherit; 
+    }
+
+    /* TEMA LIGHT */
+    :root, :root[data-theme='dark'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107; 
+        --cor-terciaria: #6C757D; 
+        --cor-fundo: #FFF; 
+        --cor-fundo-maisclaro: #fff;
+        --cor-preto-light: #000; 
+        --cor-branco-light: #fff; 
+        --cor-sombra-preta-light: rgba(0, 0, 0, 0.05);
+    }
+    /* TEMA DARK */
+    :root[data-theme='light'] {
+        ----cor-principal: #2e6b73;
+        --cor-secundaria: #FFC107;
+        --cor-terciaria: #6C757D;
+        --cor-fundo: #2f2f2f; 
+        --cor-fundo-maisclaro: #555555;
+        --cor-preto-light: #fff; 
+        --cor-branco-light: #000; 
+        --cor-sombra-preta-light: rgba(255, 255, 255, 0.05);
+    }
+
+
+    /* ---------- ALTERAR COR --------------- */
+
+
+    #toggleTheme{
+        color: var(----cor-principal);
+        font-size: 1.4rem;
+        margin-left: 1%;
+        cursor: pointer;
+   }
+    
+
+    /* ---------- ALTERAR FONTE --------------- */
+
+    .fixed-button {
+        position: fixed;
+        top: 35%;
+        right: 0;
+        transform: translateY(-50%);
+        z-index: 800;
+        padding: 8px 3px;
+        background-color: #ffffff;
+        border-radius: 5px 0 0 5px;
+        text-decoration: none;
+        font-size: 15px;
+        transition: background-color 0.3s;
+        cursor: pointer;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+         }
+    
+    .fixed-button button{
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+
+    /* ---------- FIM ALTERAR FONTE --------------- */
+
+    body {
+        background-color: var(--cor-fundo);
+        font-family: "Merriweather Sans", sans-serif;
+    }
+
+    .rowTopo-login {
+        padding: 3% 2% 0% 2%;
+    }
+
+    .buttonVoltar a {
+        color: var(----cor-principal);;
+        text-decoration: none;
+        padding: 10px;
+        font-weight: 100;
+        display: inline-block;
+    }
+
+    .buttonVoltar a:hover {
+        color: var(----cor-principal);
+        text-decoration: none;
+    }
+
+    .buttonSun i{
+        color: var(----cor-principal);
+        font-size: 25px;
+        margin-top: 5%;
+        padding: 0% 0% 0% 50%;
+    }
+
+    .rowLogo-login {
+        text-align: center;
+    }
+
+    .rowLogo-login img {
+        width: 12%; /* Ajustado para responsividade */
+        display: block;
+        margin: 0 auto;
+    }
+
+    .rowLogo-login p {
+        color: var(--cor-preto-light);
+        font-weight: 600;
+        font-size: 22px;
+        letter-spacing: 0.5px;
+        line-height: 26px;
+    }
+
+    .rowForms-login {
+        padding: 0% 10%;
+    }
+
+    .colForms-login {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .colForms-login p{
+        font-size: 0.9rem;
+        margin-top: 10%;
+        color: var(--cor-preto-light);
+    } 
+
+    .colForms-login p a{
+        color: var(----cor-principal);
+        text-decoration: underline;
+    }
+
+    .colForms-login input[type="email"],
+    .colForms-login input[type="password"] {
+        background-color: var(--cor-fundo);
+        width: 100%;
+        border: none;
+        border-bottom: 2px solid #ccc;
+        transition: border-color 0.3s;
+        color: var(--cor-preto-light);
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 10%;
+        margin-top: 2.5%;
+    }
+
+    .labelSenha{
+        margin-bottom: 2% !important;
+    }
+
+    .labelButtonForms-login {
+        width: 100%;
+        text-align: center;
+        background-color: #3f7f88;
+        color:var(--cor-branco-light);
+        padding: 10px;
+        font-size: 12px;
+        text-transform: uppercase;
+        border: none;
+        cursor: pointer;
+        border-radius: 10px;
+    }
+
+    .labelForms-login{
+        color: var(--cor-preto-light);
+        text-transform: uppercase;
+    }
+
+    .vertical-login {
+        width: 1px;
+        background-color: rgb(198, 198, 198);
+        height: 100%;
+    }
+
+    .esqueciSenha-login {
+        font-size: 12px;
+        color: #6d6b6b;
+    }
+
+    .colTermos-login {
+        color: rgb(102, 102, 102);
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .colTermos-login a {
+        color: var(----cor-principal);
+        text-decoration: underline;
+    }
+
+    .btn-secondary{
+        background-color: var(----cor-principal);
+    }
+
+    @media (max-width: 768px) {
+        .rowForms-login {
+            padding: 0 5%;
+        }
+        .colForms-login {
+            padding: 2%;
+        }
+        .vertical-login {
+            display: none; /* Esconder o separador em telas pequenas */
+        }
+        .rowForms-login {
+            flex-direction: column;
+        }
+    }
+
+    @media (min-width: 1200px) {
+        .rowLogo-login img {
+            width: 6%; /* Ajustado para TVs maiores */
+        }
+        .colForms-login input[type="email"],
+        .colForms-login input[type="password"] {
+            max-width: 400px;
+        }
+        .colForms-login h2 {
+            font-size: 32px;
+        }
+    }
+
+    .colDireito h1{
+        color: var(----cor-principal);
+        font-size: 1.8rem;
+        font-weight: 400;
+    }
+
+    .colDireito p{
+        font-weight: 100;
+        margin-top: 5%;
+        margin-bottom: 8%;
+        color: var(--cor-preto-light);
+    }
+
+    .colDireito a{
+        padding: 2% 10%;
+        background-color: var(--cor-fundo);
+        border: 1px solid #3f7f88;
+        text-decoration: none;
+        color: #3f7f88;
+        border-radius: 25px;
+    }
+

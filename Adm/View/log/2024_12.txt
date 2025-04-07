@@ -1,0 +1,48 @@
+2024-12-01 00:45:02 -  nico@gmail.com logou com exito na área de Administrador 
+2024-12-01 01:16:26 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-12-01 14:44:40 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-12-01 15:09:15 -  nico@gmail.com logou com exito na área do Cliente 
+2024-12-01 15:09:46 - CLIENTE do CLIENTE_INT -1 foi atualizado
+2024-12-01 16:18:53 - Atualização dos dados do ID - 5 dos cliente ocorreram com exito
+2024-12-01 16:19:06 - Atualização dos dados do ID - 5 dos cliente ocorreram com exito
+2024-12-01 16:55:11 - Status do contato alterado com sucesso
+2024-12-01 16:56:24 - Status do contato alterado com sucesso
+2024-12-01 16:56:27 - Status do contato alterado com sucesso
+2024-12-01 18:31:23 - Conta ja existente
+2024-12-01 18:37:32 - Cliente testeCli@gmail.com criado com sucesso
+2024-12-01 18:37:37 -  testeCli@gmail.com logou com exito na área do Cliente 
+2024-12-01 18:37:47 - CLIENTE do CLIENTE_INT -14 foi atualizado
+2024-12-01 18:37:58 - CLIENTE do CLIENTE_INT -14 foi atualizado
+2024-12-01 18:38:14 - Senha do ID_cli -14 foi alterada
+2024-12-01 18:40:33 - Interprete temporario doxec44008@ikowat.com criado com sucesso
+2024-12-01 18:40:46 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-12-01 18:40:57 - Interprete temporario negado
+2024-12-01 18:42:43 - Interprete temporario->interprete foi bem sucedido
+2024-12-01 18:46:30 -  doxec44008@ikowat.com logou com exito na área de Interprete 
+2024-12-01 18:56:16 - dados pessoais do Interprete temporario  criado com sucesso
+2024-12-01 18:56:50 - Perfil do Interprete temporario 13 criado com sucesso
+2024-12-01 18:57:05 - Todos os dados do interrpete foram aprovados. ID interprete{15}
+2024-12-01 18:57:10 - Todos os dados do interrpete foram aprovados. ID interprete{15}
+2024-12-01 18:57:52 - Serviços adicionados na tabela do interprete
+2024-12-01 18:59:33 - Agendamento efetuado com sucesso
+2024-12-01 19:09:03 - Agendamento efetuado com sucesso
+2024-12-01 19:09:06 - Agendamento efetuado pelo cliente14com sucesso
+2024-12-01 19:14:06 - Agendamento efetuado com sucesso
+2024-12-01 19:19:13 - Agendamento efetuado com sucesso
+2024-12-01 19:19:17 - Agendamento efetuado pelo cliente14com sucesso
+2024-12-01 20:16:09 -  doxec44008@ikowat.com logou com exito na área de Interprete 
+2024-12-01 20:16:36 -  doxec44008@ikowat.com logou com exito na área de Interprete 
+2024-12-01 20:20:47 -  testeCli@gmail.com logou com exito na área do Cliente 
+2024-12-01 21:23:04 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-12-01 21:38:21 - Atualização dos dados do ID - 2 dos ADM ocorreram com exito
+2024-12-01 21:38:40 - Atualização dos dados do ID - 3 dos ADM ocorreram com exito
+2024-12-01 21:39:02 - Novo administrador criado - adm3
+2024-12-01 21:39:28 - Novo administrador criado - adm4
+2024-12-01 21:42:43 -  adm1@gmail.cpm logou com exito na área de Administrador 
+2024-12-01 21:42:54 - Atualização dos dados do ID - 2 dos ADM ocorreram com exito
+2024-12-01 21:43:16 -  adm2@gmail.com logou com exito na área de Administrador 
+2024-12-01 21:43:30 -  adm3@gmail.com logou com exito na área de Administrador 
+2024-12-01 21:43:45 -  adm4@gmail.com logou com exito na área de Administrador 
+2024-12-01 22:24:38 -  doxec44008@ikowat.com logou com exito na área de Interprete 
+2024-12-01 22:47:11 -  celsoincrivel@gmail.com logou com exito na área de Administrador 
+2024-12-02 00:06:31 - Avaliação apagada com sucesso
